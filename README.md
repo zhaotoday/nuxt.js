@@ -6,4 +6,4 @@
 
 #### 视频
 - [2018千锋Web前端视频教程-VUE服务器端渲染之NUXT实战](https://www.bilibili.com/video/av37561150/?p=1)
-- [Nuxt.js免费视频教程 开启SSR渲染](https://www.bilibili.com/video/av36353273?from=search&seid=17550540790671063906)
+- [Nuxt.js免费视频教程 开启SSR渲染](https://www.bilibili.com/video/av36353273/?p=1)
