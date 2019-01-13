@@ -1,5 +1,9 @@
 ## 参考
 
+#### 文档
+
+- [Nuxt.js 中文文档](https://zh.nuxtjs.org/)
+
 #### 文章
 
 - [Nuxt开发经验分享，让你踩少点坑！](https://www.jianshu.com/p/840169ba92e6)
