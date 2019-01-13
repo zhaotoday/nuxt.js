@@ -3,6 +3,7 @@
 #### 文档
 
 - [Nuxt.js 中文文档](https://zh.nuxtjs.org/)
+- [Vue SSR 指南](https://ssr.vuejs.org/zh/)
 
 #### 文章
 
