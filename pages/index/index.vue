@@ -1,5 +1,7 @@
 <template>
-  <div class="p-index">index page</div>
+  <div class="p-index">
+    <h1>index page</h1>
+  </div>
 </template>
 
 <script>

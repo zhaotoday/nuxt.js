@@ -1,7 +1,7 @@
 <template>
-  <div class="p-index">
+  <div class="p-articles-list">
     <h1>articles list</h1>
-    <h2>{{ JSON.stringify(list) }}</h2>
+    <p>{{ JSON.stringify(list) }}</p>
   </div>
 </template>
 
@@ -17,10 +17,10 @@ export default {
   computed: mapState({
     list: state => state.articles.list
   }),
-  async fetch ({ store }) {
+  async fetch ({ store, app }) {
     await store.dispatch('articles/getList', {
       offset: 0,
-      limit: 2
+      limit: app.$consts.PAGE_SIZE
     })
   }
 }
