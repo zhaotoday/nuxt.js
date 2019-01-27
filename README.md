@@ -17,6 +17,16 @@ $ npm start
 
 #### 修改 nuxt.config.js
 
+添加全局 CSS：
+
+```js
+css: [
+  '~/assets/styles/global/index.scss'
+]
+```
+
+> 参考：https://zh.nuxtjs.org/guide/configuration#css
+
 CSS 提取到一个单独的 CSS 文件中：
 
 ```js
@@ -25,7 +35,7 @@ build: {
 }
 ``` 
 
-参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
+> 参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
 
 默认首页改为 pages/index/index.vue：
 
@@ -47,15 +57,26 @@ router: {
 }
 ```
 
-参考：https://zh.nuxtjs.org/api/configuration-router/#extendroutes
+> 参考：https://zh.nuxtjs.org/api/configuration-router/#extendroutes
 
-修改 layouts/default.vue
+#### 修改 layouts/default.vue
+
+去掉 <style>。
+
+#### 页面目录规范
 
 ```
-
+|-- page                      // 页面
+|   |-- index.vue             // 页面入口
+|   |-- styles                // 样式
+|       |-- index.scss        // 样式入口
+|       |-- images            // 样式引用图片
+|   |-- images                // 页面引用图片
 ```
 
-#### 目录结构
+#### 组件目录规范
+
+与页面目录规范一致。
 
 ## 参考
 
