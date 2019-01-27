@@ -1,11 +1,18 @@
 <template>
   <div class="p-index">
     <h1>index page</h1>
+    <Component />
   </div>
 </template>
 
 <script>
-export default {}
+import Component from '~/components/component'
+
+export default {
+  components: {
+    Component
+  }
+}
 </script>
 
 <style
