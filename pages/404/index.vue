@@ -1,5 +1,5 @@
 <template>
-  <div class="p-index">index page</div>
+  <div class="p-404">404 page</div>
 </template>
 
 <script>
