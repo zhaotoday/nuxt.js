@@ -1,6 +1,5 @@
 const pkg = require('./package')
 
-
 module.exports = {
   mode: 'universal',
 
@@ -33,8 +32,7 @@ module.exports = {
   /*
   ** Plugins to load before mounting the App
   */
-  plugins: [
-  ],
+  plugins: [],
 
   /*
   ** Nuxt.js modules
@@ -54,11 +52,28 @@ module.exports = {
   ** Build configuration
   */
   build: {
+    extractCSS: true,
     /*
     ** You can extend webpack config here
     */
-    extend(config, ctx) {
-      
+    extend (config, ctx) {
+
+    }
+  },
+
+  router: {
+    extendRoutes (routes, resolve) {
+      routes.splice(routes.findIndex(item => item.name === 'index'), 1, {
+        name: 'index',
+        path: '/',
+        component: resolve(__dirname, 'pages/index/index.vue')
+      })
+
+      routes.splice(routes.findIndex(item => item.name === '404'), 1, {
+        name: '404',
+        path: '*',
+        component: resolve(__dirname, 'pages/404/index.vue')
+      })
     }
   }
 }
