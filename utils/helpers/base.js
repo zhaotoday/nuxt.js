@@ -1,5 +1,3 @@
 import helpers from 'jt-helpers'
 
-export default {
-  ...helpers
-}
+export default helpers

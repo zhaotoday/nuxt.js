@@ -6,7 +6,7 @@ export default class extends REST {
    * 重写父类 request 方法，按业务场景定制功能
    * @override
    */
-  request (method = 'GET', options = {}) {
+  async request (method = 'GET', options = {}) {
     if (!options.query) {
       options.query = {}
     }
@@ -20,6 +20,8 @@ export default class extends REST {
       options.query._ = new Date().getTime()
     }
 
-    return super.request(method, options)
+    const { data } = await super.request(method, options)
+
+    return data
   }
 }
