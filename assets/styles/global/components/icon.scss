@@ -1,0 +1,44 @@
+@include c(icon) {
+  display: inline-block;
+  background: {
+    size: 100% 100%;
+    repeat: no-repeat;
+    position: center center;
+  }
+
+  @include m(logo) {
+    @include size(px2rpx(280px), px2rpx(280px));
+
+    background-image: cdn("components/icon/logo.png");
+  }
+
+  @include m(contact) {
+    @include size(px2rpx(48px), px2rpx(48px));
+
+    background-image: cdn("components/icon/contact.png");
+  }
+
+  @include m(phone) {
+    @include size(px2rpx(48px), px2rpx(48px));
+
+    background-image: cdn("components/icon/phone.png");
+  }
+
+  @include m(call) {
+    @include size(px2rpx(48px), px2rpx(48px));
+
+    background-image: cdn("components/icon/call.png");
+  }
+
+  @include m(point) {
+    @include size(px2rpx(48px), px2rpx(48px));
+
+    background-image: cdn("components/icon/point.png");
+  }
+
+  @include m(close) {
+    @include size(px2rpx(40px), px2rpx(40px));
+
+    background-color: black;
+  }
+}

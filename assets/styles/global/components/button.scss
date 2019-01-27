@@ -1,0 +1,21 @@
+@include c(button) {
+  text-align: center;
+
+  @include m(1) {
+    @include text--middle(px2rpx(88px));
+
+    border-radius: px2rpx(88px);
+
+    &::after {
+      border: none;
+    }
+  }
+
+  @include m(2) {
+
+  }
+
+  @include m(map, bus) {
+
+  }
+}

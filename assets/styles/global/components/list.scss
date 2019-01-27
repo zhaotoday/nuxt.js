@@ -1,0 +1,27 @@
+@include c(list) {
+  @include e(item) {
+    @include text--middle(px2rpx(88px));
+    @extend %border-1px;
+
+    position: relative;
+
+    &::after {
+      border-bottom: 1px solid map-get($colors, c7);
+    }
+  }
+
+  @include e(item-title, item-addon) {
+    @include position--absolute(50%);
+
+    transform: translateY(-50%);
+    line-height: 100%;
+  }
+
+  @include e(item-title) {
+    left: 0;
+  }
+
+  @include e(item-addon) {
+    right: px2rpx(20px);
+  }
+}

@@ -1,0 +1,33 @@
+@include c(tabs) {
+  @include e(tabs) {
+    display: flex;
+    background-color: map-get($colors, c1);
+  }
+
+  @include e(tab) {
+    @include text--middle(px2rem(50px));
+
+    position: relative;
+    flex: 1;
+    text-align: center;
+    color: map-get($colors, c2);
+
+    &.is-active {
+      color: map-get($colors, c3);
+
+      &::after {
+        @include position--absolute(null, null, 0, 50%);
+
+        transform: translateX(-50%);
+        display: block;
+        content: '';
+        width: px2rpx(50px);
+        border-bottom: px2rpx(4px) solid map-get($colors, c3);
+      }
+    }
+  }
+
+  @include e(content) {
+    @include margin(px2rpx(10px), null, null, px2rpx(20px));
+  }
+}

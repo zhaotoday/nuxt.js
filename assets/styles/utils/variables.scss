@@ -1,0 +1,42 @@
+// CDN
+$cdn: "http://localhost:88";
+
+// CDN 版本号
+$cdn-version: 0.1;
+
+// 字体大小
+$font-sizes: (
+  fs10: 10px,
+  fs20: 20px,
+  fs24: 24px,
+  fs26: 26px,
+  fs27: 27px,
+  fs28: 28px,
+  fs30: 30px,
+  fs32: 32px,
+  fs34: 34px,
+  fs36: 36px,
+  fs40: 40px,
+  fs42: 42px,
+  fs44: 44px
+);
+
+// 颜色
+$colors: (
+  c1: #fff,
+  c2: #333333,
+  c3: #39bab8,
+  c4: #999999,
+  c5: #F5F5F5,
+  c6: #CCCCCC,
+  c7: #DDDDDD,
+  c8: #ffffff,
+  c9: #FBA319,
+  c10: #666666
+);
+
+// z-index
+$z-indexes: (
+  c-overlay: 5,
+  c-popup: 6
+);

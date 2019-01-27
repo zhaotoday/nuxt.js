@@ -1,0 +1,9 @@
+@each $key, $value in $font-sizes {
+  .#{$key} {
+    @extend %#{$key};
+  }
+}
+
+.fwb {
+  font-weight: bold;
+}

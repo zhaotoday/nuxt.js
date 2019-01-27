@@ -1,0 +1,43 @@
+@include c(cell) {
+  @include e(item) {
+    @include text--middle(px2rpx(88px));
+    @extend %border-1px;
+
+    position: relative;
+
+    &::after {
+      border-bottom: 1px solid rgba(map-get($colors, c1), .3);
+    }
+  }
+
+  @include e(icon, label, value, addon-icon) {
+    @include position--absolute(50%);
+
+    transform: translateY(-50%);
+  }
+
+  @include e(icon) {
+    left: px2rpx(15px);
+  }
+
+  @include e(label, value) {
+    line-height: 100%;
+  }
+
+  @include e(label) {
+    left: px2rpx(75px);
+    color: rgba(map-get($colors, c8), .5);
+  }
+
+  @include e(value) {
+    right: px2rpx(15px);
+    color: map-get($colors, c8);
+    text-align: right;
+  }
+
+  @include e(addon-icon) {
+    @include size(px2rpx(40px), px2rpx(40px));
+
+    right: 0;
+  }
+}

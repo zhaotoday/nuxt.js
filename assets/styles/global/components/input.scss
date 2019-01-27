@@ -1,0 +1,20 @@
+@include c(input) {
+  @include text--middle(px2rpx(88px));
+  @extend %border-1px;
+
+  width: px2rpx(640px);
+  background-color: map-get($colors, c1);
+  border-radius: px2rpx(8px);
+
+  &::after {
+    border: 1px solid map-get($colors, c6);
+    border-radius: px2rpx(8px * 2);
+  }
+
+  input {
+    @include text--middle(px2rpx(88px));
+
+    margin-left: px2rpx(20px);
+    border: 0;
+  }
+}
