@@ -1,16 +1,16 @@
 <template>
   <div class="p-index">
     <h1>index page</h1>
-    <Component />
+    <CComponent />
   </div>
 </template>
 
 <script>
-import Component from '~/components/component'
+import CComponent from '~/components/component'
 
 export default {
   components: {
-    Component
+    CComponent
   }
 }
 </script>
