@@ -1,5 +1,7 @@
 <template>
-  <div class="p-404">404 page</div>
+  <div class="p-404">
+    <h1>404 page</h1>
+  </div>
 </template>
 
 <script>

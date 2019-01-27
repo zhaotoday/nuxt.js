@@ -1,6 +1,6 @@
 <template>
-  <div class="p-index">
-    <p>index page</p>
+  <div class="p-articles-detail">
+    <h1>articles detail page</h1>
     <p>{{ JSON.stringify(detail) }}</p>
   </div>
 </template>
@@ -9,9 +9,6 @@
 import { mapState } from 'vuex'
 
 export default {
-  asyncData () {
-    return { a: 3 }
-  },
   head () {
     return {
       title: this.detail.title
