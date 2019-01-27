@@ -4,6 +4,12 @@
   </div>
 </template>
 
+<script>
+export default {
+  name: 'CComponent'
+}
+</script>
+
 <style
   lang="scss"
   src="./styles/index.scss">
