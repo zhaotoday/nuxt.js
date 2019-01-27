@@ -27,6 +27,7 @@ module.exports = {
   ** Global CSS
   */
   css: [
+    '~/assets/styles/global/index.scss'
   ],
 
   /*
@@ -37,16 +38,7 @@ module.exports = {
   /*
   ** Nuxt.js modules
   */
-  modules: [
-    // Doc: https://axios.nuxtjs.org/usage
-    '@nuxtjs/axios'
-  ],
-  /*
-  ** Axios module configuration
-  */
-  axios: {
-    // See https://github.com/nuxt-community/axios-module#options
-  },
+  modules: [],
 
   /*
   ** Build configuration
