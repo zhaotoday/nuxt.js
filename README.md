@@ -1,3 +1,62 @@
+## 使用
+
+#### 命令
+
+```bash
+# 开发调试
+$ npm run dev
+
+# 服务端渲染应用部署
+
+# 构建
+$ npm run build
+
+# 启动
+$ npm start
+```
+
+#### 修改 nuxt.config.js
+
+CSS 提取到一个单独的 CSS 文件中：
+
+```js
+build: {
+  extractCSS: true
+}
+``` 
+
+参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
+
+默认首页改为 pages/index/index.vue：
+
+```js
+router: {
+  extendRoutes (routes, resolve) {
+    routes.splice(routes.findIndex(item => item.name === 'index'), 1, {
+      name: 'index',
+      path: '/',
+      component: resolve(__dirname, 'pages/index/index.vue')
+    })
+
+    routes.splice(routes.findIndex(item => item.name === '404'), 1, {
+      name: '404',
+      path: '*',
+      component: resolve(__dirname, 'pages/404/index.vue')
+    })
+  }
+}
+```
+
+参考：https://zh.nuxtjs.org/api/configuration-router/#extendroutes
+
+修改 layouts/default.vue
+
+```
+
+```
+
+#### 目录结构
+
 ## 参考
 
 #### 文档
