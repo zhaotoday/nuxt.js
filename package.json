@@ -10,10 +10,11 @@
     "start": "cross-env NODE_ENV=production node server/index.js"
   },
   "dependencies": {
+    "@nuxtjs/axios": "^5.3.6",
     "cross-env": "^5.2.0",
-    "nuxt": "^2.3.4",
     "koa": "^2.6.2",
-    "@nuxtjs/axios": "^5.3.6"
+    "nuxt": "^2.3.4",
+    "sass-utils": "^1.0.20"
   },
   "devDependencies": {
     "node-sass": "^4.11.0",
