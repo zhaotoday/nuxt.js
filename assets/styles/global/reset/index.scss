@@ -4,3 +4,9 @@
 body {
   background-color: map-get($colors, c1);
 }
+
+a,
+a:hover,
+a:active {
+  text-decoration: none;
+}

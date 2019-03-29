@@ -1,0 +1,5 @@
+@include o(box) {
+  @include block--center;
+
+  width: $min-width;
+}

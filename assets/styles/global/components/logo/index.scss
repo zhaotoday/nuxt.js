@@ -1,0 +1,14 @@
+@include c(logo) {
+  @include text--middle(50px);
+
+  width: 140px;
+  display: block;
+  position: relative;
+  padding-left: 50px;
+
+  @include e(icon) {
+    @include position--absolute(50%, null, null, 0);
+
+    transform: translateY(-50%);
+  }
+}

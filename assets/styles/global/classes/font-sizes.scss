@@ -1,9 +1,13 @@
 @import "../../utils/index";
 
-$values: 12, 14, 16, 18, 20;
+$values: 12, 14, 16, 18, 20, 40;
 
 @each $value in $values {
   .fs#{$value} {
     font-size: $value * 1px;
+  }
+
+  ._fs#{$value} {
+    font-size: $value * 1px !important;
   }
 }
