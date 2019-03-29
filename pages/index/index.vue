@@ -1,6 +1,7 @@
 <template>
   <div class="p-index">
-    <h1>index page</h1>
+    <div class="pb-banner">
+    </div>
     <CComponent />
   </div>
 </template>

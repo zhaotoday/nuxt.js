@@ -1,4 +1,18 @@
 @import "~/assets/styles/utils/index.scss";
 
 @include p(index) {
+  @include pb(banner) {
+    @include size(100%, 600px);
+
+    background: {
+      image: url("./images/banner.jpg");
+      size: 1940px 600px;
+      position: center center;
+      repeat: no-repeat;
+    }
+
+    position: relative;
+    overflow: hidden;
+    min-width: $min-width;
+  }
 }
