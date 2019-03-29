@@ -1,9 +1,9 @@
-@each $key, $value in $font-sizes {
-  .#{$key} {
-    @extend %#{$key};
-  }
-}
+@import "../../utils/index";
 
-.fwb {
-  font-weight: bold;
+$values: 12, 14, 16, 18, 20;
+
+@each $value in $values {
+  .fs#{$value} {
+    font-size: $value * 1px;
+  }
 }
