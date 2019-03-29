@@ -14,6 +14,7 @@
     "jt-helpers": "0.0.6",
     "jt-rest": "0.0.8",
     "koa": "^2.7.0",
+    "minireset.css": "0.0.4",
     "nuxt": "^2.3.4",
     "sass-utils": "^1.0.20"
   },

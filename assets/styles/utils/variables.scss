@@ -2,7 +2,10 @@
 $font-sizes: ();
 
 // 颜色
-$colors: ();
+$colors: (
+  c1: #fff,
+  c2: #000
+);
 
 // z-index
 $z-indexes: (

@@ -1,0 +1,6 @@
+@import "../../utils/index";
+@import "~minireset.css/minireset";
+
+body {
+  background-color: map-get($colors, c1);
+}
