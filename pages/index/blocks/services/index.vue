@@ -1,13 +1,19 @@
 <template>
-  <ul class="c-services o-box o-grid">
-    <li
-      v-for="item in items"
-      :key="item.id"
-      class="c-services__item o-grid__cell">
-      <h3 class="fs26">{{ item.title }}</h3>
-      <p>{{ item.desc }}</p>
-    </li>
-  </ul>
+  <div class="pb-panel">
+    <div class="u-tac">
+      <h2 class="pb-panel__title fs44">服务项目</h2>
+      <p class="pb-panel__body c6">以项目为中心，为企业谋发展</p>
+    </div>
+    <ul class="pb-services o-box o-grid">
+      <li
+        v-for="item in items"
+        :key="item.id"
+        class="pb-services__item o-grid__cell">
+        <h3 class="fs26">{{ item.title }}</h3>
+        <p>{{ item.desc }}</p>
+      </li>
+    </ul>
+  </div>
 </template>
 
 <script>

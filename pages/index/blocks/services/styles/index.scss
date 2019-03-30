@@ -1,0 +1,32 @@
+@import "~/assets/styles/utils/index.scss";
+
+@include p(index) {
+  @include pb(services) {
+    @include clearfix;
+
+    @include e(item) {
+      @include padding(140px, 35px, null, 25px);
+
+      background-repeat: no-repeat;
+      overflow: hidden;
+
+      h3 {
+        display: inline-block;
+        border-bottom: 2px solid map-get($colors, c3);
+        padding-bottom: 20px;
+        margin-bottom: 10px;
+        line-height: 100%;
+      }
+
+      p {
+        line-height: 160%;
+      }
+
+      @for $i from 1 through 4 {
+        &:nth-child(#{$i}) {
+          background-image: url("./images/#{$i}.png");
+        }
+      }
+    }
+  }
+}

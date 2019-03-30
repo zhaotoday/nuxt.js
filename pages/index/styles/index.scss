@@ -1,4 +1,5 @@
 @import "~/assets/styles/utils/index.scss";
+@import "./blocks/panel/index";
 
 @include p(index) {
   @include pb(banner) {
@@ -24,7 +25,7 @@
     }
 
     @include e(desc) {
-      @include position--absolute(280px, null, null, 0);
+      @include position--absolute(290px, null, null, 0);
 
       width: 100%;
       text-align: center;
@@ -34,23 +35,6 @@
       @include position--absolute(350px, null, null, 50%);
 
       transform: translateX(-50%);
-    }
-  }
-
-  @include pb(panel) {
-    padding-top: 50px;
-
-    @include e(title) {
-      @include text--middle(70px);
-
-      display: inline-block;
-      border-bottom: 2px solid map-get($colors, c3);
-    }
-
-    @include e(body) {
-      @include padding(30px, null, 50px);
-
-      line-height: 100%;
     }
   }
 }
