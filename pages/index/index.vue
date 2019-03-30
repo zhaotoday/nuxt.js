@@ -5,7 +5,7 @@
         <CLogo />
         <CNavBar />
         <h1 class="pb-banner__title u-tac c3 fs42">福州力软 • 匠心品质</h1>
-        <p class="pb-banner__desc u-tac c1 fs18">从概念到产品，最短几周的时间内，我们让您的伟大想法落地</p>
+        <p class="pb-banner__desc u-tac c1 fs18">从概念到产品，最短只需几周时间，我们让您的伟大想法落地</p>
         <CQRCode />
       </div>
     </div>
