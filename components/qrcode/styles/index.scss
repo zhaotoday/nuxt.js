@@ -8,5 +8,6 @@
     border: 5px solid map-get($colors, c1);
     box-shadow: 0 0 16px 0 rgba(map-get($colors, c2), 0.15);
     margin-bottom: 10px;
+    border-radius: 2px;
   }
 }
