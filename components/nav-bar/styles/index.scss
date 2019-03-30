@@ -1,0 +1,24 @@
+@import "~/assets/styles/utils/index.scss";
+
+@include c(nav-bar) {
+  @include position--absolute(50%, 0);
+
+  transform: translateY(-50%);
+
+  @include e(item) {
+    display: inline-block;
+    color: map-get($colors, c1);
+    padding: 8px;
+    margin-left: 30px;
+    line-height: 100%;
+
+    &:hover,
+    &:active {
+      color: map-get($colors, c1);
+    }
+
+    @include s(is-active) {
+      border-bottom: 2px solid map-get($colors, c3);
+    }
+  }
+}

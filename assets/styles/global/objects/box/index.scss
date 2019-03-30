@@ -1,5 +1,10 @@
 @include o(box) {
   @include block--center;
 
+  position: relative;
   width: $min-width;
+
+  @include m(header) {
+    height: 100px;
+  }
 }
