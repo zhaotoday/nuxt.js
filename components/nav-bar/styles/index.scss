@@ -8,8 +8,8 @@
   @include e(item) {
     display: inline-block;
     color: map-get($colors, c1);
-    padding: 8px;
-    margin-left: 30px;
+    padding: 6px;
+    margin-left: 50px;
     line-height: 100%;
 
     &:hover,

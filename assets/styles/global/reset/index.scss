@@ -2,7 +2,10 @@
 @import "~minireset.css/minireset";
 
 body {
+  font-family: $font-family;
+  font-size: $font-size;
   background-color: map-get($colors, c1);
+  color: map-get($colors, c5);
 }
 
 a,
