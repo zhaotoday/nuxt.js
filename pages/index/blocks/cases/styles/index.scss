@@ -1,28 +1,35 @@
 @import "~/assets/styles/utils/index.scss";
 
-@include c(cases) {
-  @include clearfix;
+@include p(index) {
+  @include pb(cases) {
+    @include clearfix;
 
-  @include e(item) {
-    img {
-      @include size(375px, 375px);
-      @include block--center;
-
-      padding: 10px;
-      background-color: map-get($colors, c1);
-      display: block;
-      box-shadow: 0 0 16px 0 rgba(map-get($colors, c2), 0.03);
-    }
-
-    &:first-child {
+    @include e(item) {
       img {
-        margin-left: 0;
+        @include size(375px, 375px);
+        @include block--center;
+
+        padding: 8px;
+        background-color: map-get($colors, c1);
+        display: block;
+        box-shadow: 0 0 16px 0 rgba(map-get($colors, c2), 0.03);
+        cursor: pointer;
+
+        &:hover {
+          box-shadow: 0 0 16px 0 rgba(map-get($colors, c2), 0.12);
+        }
       }
-    }
 
-    &:last-child {
-      img {
-        margin-right: 0;
+      &:first-child {
+        img {
+          margin-left: 0;
+        }
+      }
+
+      &:last-child {
+        img {
+          margin-right: 0;
+        }
       }
     }
   }

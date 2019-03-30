@@ -1,5 +1,5 @@
 <template>
-  <div class="c-qrcode c1 u-tac">
+  <div class="c-qrcode u-tac c1">
     <img
       class="c-qrcode__img"
       src="./images/qrcode.png" />

@@ -1,5 +1,5 @@
 @include c(header) {
-  height: 100px;
+  height: 120px;
 
   @include c(logo) {
     @include position--absolute(50%, null, null, 0);
