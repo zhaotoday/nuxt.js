@@ -1,7 +1,7 @@
 <template>
   <div class="pb-panel">
     <div class="u-tac">
-      <h2 class="pb-panel__title fs44">行业动态</h2>
+      <h2 class="pb-panel__title fs42">行业动态</h2>
       <p class="pb-panel__body c6">以敏捷的开发方式，为您提供成熟的解决方案</p>
     </div>
     <ul class="pb-articles o-box o-grid">
@@ -12,7 +12,7 @@
         <dl>
           <dt class="pb-articles__img"></dt>
           <dd
-            v-for="item2 in [1, 2, 3, 4, 5]"
+            v-for="item2 in [1, 2, 3]"
             :key="item2"
             class="pb-articles__item">
             <span class="bgc3 c1">2015-03-30</span>

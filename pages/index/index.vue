@@ -9,6 +9,7 @@
         <CQRCode />
       </div>
     </div>
+    <PBProjects />
     <PBServices />
     <PBCases />
     <PBArticles />
@@ -20,6 +21,7 @@
 import CLogo from '~/components/logo'
 import CNavBar from '~/components/nav-bar'
 import CQRCode from '~/components/qrcode'
+import PBProjects from './blocks/projects'
 import PBServices from './blocks/services'
 import PBCases from './blocks/cases'
 import PBArticles from './blocks/articles'
@@ -30,6 +32,7 @@ export default {
     CLogo,
     CNavBar,
     CQRCode,
+    PBProjects,
     PBServices,
     PBCases,
     PBArticles,

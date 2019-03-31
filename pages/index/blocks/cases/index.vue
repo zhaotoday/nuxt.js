@@ -1,7 +1,7 @@
 <template>
   <div class="pb-panel bgc7">
     <div class="u-tac">
-      <h2 class="pb-panel__title fs44">合作案例</h2>
+      <h2 class="pb-panel__title fs42">合作案例</h2>
       <p class="pb-panel__body c6">用最专业最诚恳的态度服务用户</p>
     </div>
     <div class="o-box">

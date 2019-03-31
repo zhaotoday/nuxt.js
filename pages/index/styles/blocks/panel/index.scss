@@ -2,7 +2,7 @@
 
 @include p(index) {
   @include pb(panel) {
-    @include padding(60px, null, 60px);
+    @include padding(70px, null, 70px);
 
     @include e(title) {
       line-height: 100%;

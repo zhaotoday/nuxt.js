@@ -1,7 +1,7 @@
 <template>
   <div class="pb-panel">
     <div class="u-tac">
-      <h2 class="pb-panel__title fs44">服务项目</h2>
+      <h2 class="pb-panel__title fs42">服务项目</h2>
       <p class="pb-panel__body c6">以项目为中心，为企业谋发展</p>
     </div>
     <ul class="pb-services o-box o-grid">
