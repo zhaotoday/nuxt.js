@@ -12,7 +12,7 @@
         <dl>
           <dt class="pb-articles__img"></dt>
           <dd
-            v-for="item2 in [1, 2, 3]"
+            v-for="item2 in [1, 2, 3, 4, 5]"
             :key="item2"
             class="pb-articles__item">
             <span class="bgc3 c1">2015-03-30</span>

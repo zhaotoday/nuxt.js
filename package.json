@@ -9,6 +9,11 @@
     "build": "nuxt build",
     "start": "cross-env NODE_ENV=production node server/index.js"
   },
+  "config": {
+    "nuxt": {
+      "port": "3001"
+    }
+  },
   "dependencies": {
     "cross-env": "^5.2.0",
     "jt-helpers": "0.0.6",

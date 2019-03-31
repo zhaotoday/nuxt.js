@@ -22,7 +22,7 @@
     }
 
     @include e(item) {
-      @include text--middle(50px);
+      @include text--middle(58px);
       @include text--overflow;
 
       a {

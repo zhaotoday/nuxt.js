@@ -53,6 +53,7 @@ module.exports = {
     extend (config, ctx) {
 
     },
+    // publicPath: 'https://abc.com',
     postcss: [
       require('autoprefixer')({
         browsers: [
