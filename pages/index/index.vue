@@ -28,6 +28,17 @@ import PBArticles from './blocks/articles'
 import CFooter from '~/components/footer'
 
 export default {
+  head () {
+    return {
+      title: '福州力软信息科技有限公司_福州网络公司_福州软件开发_福州小程序开发_福州商城开发',
+      meta: [
+        {
+          name: 'description',
+          content: '福州力软信息科技有限公司成立于 2015 年 11 月 24 日，是福州新崛起的移动互联网服务提供商，为中小企业提供小程序开发、商城开发、公众号 H5 开发、App 开发、网站开发等服务。'
+        }
+      ]
+    }
+  },
   components: {
     CLogo,
     CNavBar,

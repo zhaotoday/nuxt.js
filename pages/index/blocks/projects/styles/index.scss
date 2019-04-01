@@ -12,6 +12,8 @@
       @include size(45px, 45px);
 
       display: inline-block;
+      margin-left: 40px;
+      float: left;
     }
 
     p {
@@ -19,6 +21,7 @@
 
       display: inline-block;
       margin-left: 10px;
+      float: left;
     }
   }
 }
