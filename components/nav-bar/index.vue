@@ -2,13 +2,24 @@
   <div class="c-nav-bar fs16">
     <a
       class="c-nav-bar__item is-active"
-      href="#">首页</a>
+      href="#">
+      首页
+    </a>
     <a
       class="c-nav-bar__item"
-      href="#">关于我们</a>
+      href="#">
+      关于我们
+    </a>
     <a
       class="c-nav-bar__item"
-      href="#">公司新闻</a>
+      href="#">
+      联系我们
+    </a>
+    <a
+      class="c-nav-bar__item"
+      href="#">
+      行业动态
+    </a>
     <a
       class="c-nav-bar__item"
       href="https://github.com/zhaotoday"
