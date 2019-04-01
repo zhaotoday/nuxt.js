@@ -6,6 +6,7 @@ body {
   font-size: $font-size;
   background-color: map-get($colors, c1);
   color: map-get($colors, c5);
+  min-width: $min-width;
 }
 
 a,
