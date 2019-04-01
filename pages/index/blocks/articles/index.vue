@@ -21,7 +21,7 @@
               :title="item2.title"
               :href="item2.url"
               target="_blank"
-              rel="nofollow">
+              rel="external nofollow">
               {{ item2.title }}
             </a>
           </dd>

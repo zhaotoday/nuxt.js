@@ -24,7 +24,7 @@
       class="c-nav-bar__item"
       href="https://github.com/zhaotoday"
       target="_blank"
-      rel="nofollow">
+      rel="external nofollow">
       开源项目
     </a>
   </div>
