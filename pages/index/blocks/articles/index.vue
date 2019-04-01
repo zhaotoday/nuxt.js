@@ -30,7 +30,7 @@
 
 <script>
 export default {
-  name: 'CArticles'
+  name: 'PBArticles'
 }
 </script>
 

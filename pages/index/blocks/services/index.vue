@@ -18,7 +18,7 @@
 
 <script>
 export default {
-  name: 'CServices',
+  name: 'PBServices',
   data () {
     return {
       items: [
