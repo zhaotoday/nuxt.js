@@ -11,11 +11,11 @@
       href="#">公司新闻</a>
     <a
       class="c-nav-bar__item"
-      href="#">技术文档</a>
-    <a
-      class="c-nav-bar__item"
       href="https://github.com/zhaotoday"
-      target="_blank">开源项目</a>
+      target="_blank"
+      rel="nofollow">
+      开源项目
+    </a>
   </div>
 </template>
 
