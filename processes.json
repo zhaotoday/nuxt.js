@@ -2,7 +2,7 @@
   "apps": [
     {
       "name": "my-app",
-      "script": "./src/index.js",
+      "script": "./server/index.js",
       "watch": [
         "src"
       ],
@@ -10,15 +10,6 @@
         "node_modules",
         "logs"
       ],
-      "env_development": {
-        "NODE_ENV": "development"
-      },
-      "env_test": {
-        "NODE_ENV": "test"
-      },
-      "env_beta": {
-        "NODE_ENV": "beta"
-      },
       "env_production": {
         "NODE_ENV": "production"
       }
