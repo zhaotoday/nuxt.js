@@ -30,15 +30,14 @@ $ npm stop
 }
 ```
 
-修改 processes.json：
+修改 processes.json，将 {app-name} 改成自己的：
 
 ```js
 "apps": [
   {
-    "name": "my-app",
+    "name": "{app-name}",
     ...
-  },
-  ...
+  }
 ]
 ```
 
