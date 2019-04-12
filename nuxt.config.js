@@ -53,14 +53,14 @@ module.exports = {
     extend (config, ctx) {
 
     },
-    // publicPath: 'https://abc.com',
     postcss: {
       preset: {
         autoprefixer: {
           browsers: ['last 2 versions', '> 5%']
         }
       }
-    }
+    },
+    // publicPath: 'https://my-app.lrcdn.cn'
   },
 
   router: {

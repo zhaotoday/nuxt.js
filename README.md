@@ -13,6 +13,33 @@ $ npm run build
 
 # 启动
 $ npm start
+
+# 停止
+$ npm stop
+```
+
+#### 应用配置
+
+修改 package.json，将 {app-name} 改成自己的：
+
+```js
+"scripts": {
+  ...
+  "stop": "pm2 stop {app-name}",
+  ...
+}
+```
+
+修改 processes.json：
+
+```js
+"apps": [
+  {
+    "name": "my-app",
+    ...
+  },
+  ...
+]
 ```
 
 #### 修改 nuxt.config.js
@@ -36,6 +63,28 @@ build: {
 ``` 
 
 > 参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
+
+配置 PostCSS autoprefixer：
+
+```js
+build: {
+  postcss: {
+    preset: {
+      autoprefixer: {
+        browsers: ['last 2 versions', '> 5%']
+      }
+    }
+  }
+}
+```
+
+配置 CDN：
+
+```js
+build: {
+  publicPath: 'https://my-app.lrcdn.cn'
+}
+```
 
 默认首页改为 pages/index/index.vue：
 
