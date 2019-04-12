@@ -24,9 +24,7 @@ $ npm stop
 
 ```js
 "scripts": {
-  ...
-  "stop": "pm2 stop {app-name}",
-  ...
+  "stop": "pm2 stop {app-name}"
 }
 ```
 
@@ -35,8 +33,7 @@ $ npm stop
 ```js
 "apps": [
   {
-    "name": "{app-name}",
-    ...
+    "name": "{app-name}"
   }
 ]
 ```
