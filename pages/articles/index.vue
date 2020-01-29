@@ -1,6 +1,6 @@
 <template>
   <div class="p-articles-list">
-    <h1>articles list page</h1>
+    <h1>Articles List</h1>
     <p>{{ JSON.stringify(list) }}</p>
   </div>
 </template>
