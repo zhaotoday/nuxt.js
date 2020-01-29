@@ -1,15 +1,16 @@
 {
   "name": "my-app",
   "version": "1.0.0",
-  "description": "My great Nuxt.js project",
+  "description": "My flawless Nuxt.js project",
   "author": "zhaojintian",
   "private": true,
   "scripts": {
-    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
+    "dev": "nuxt",
     "build": "nuxt build",
     "start": "pm2 start processes.json --env production",
     "stop": "pm2 stop my-app",
-    "generate": "nuxt generate"
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
   "config": {
     "nuxt": {
@@ -17,17 +18,22 @@
     }
   },
   "dependencies": {
-    "cross-env": "^5.2.0",
-    "jt-helpers": "0.0.6",
-    "jt-rest": "0.0.8",
-    "koa": "^2.7.0",
-    "minireset.css": "0.0.4",
-    "nuxt": "^2.6.1",
-    "sass-utils": "^1.0.20"
+    "jt-helpers": "^0.0.7",
+    "jt-rest": "^0.0.11",
+    "minireset.css": "^0.0.6",
+    "nuxt": "^2.0.0",
+    "sass-utils": "^1.0.23"
   },
   "devDependencies": {
-    "node-sass": "^4.11.0",
-    "nodemon": "^1.18.11",
-    "sass-loader": "^7.1.0"
+    "@nuxtjs/eslint-config": "^1.0.1",
+    "@nuxtjs/eslint-module": "^1.0.0",
+    "@nuxtjs/stylelint-module": "^3.1.0",
+    "babel-eslint": "^10.0.1",
+    "eslint": "^6.1.0",
+    "eslint-plugin-nuxt": ">=0.4.2",
+    "node-sass": "^4.13.1",
+    "nodemon": "^2.0.2",
+    "sass-loader": "^8.0.2",
+    "stylelint": "^10.1.0"
   }
 }
