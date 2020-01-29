@@ -1,7 +1,4 @@
 @import "~/assets/styles/utils/index.scss";
 
 @include c(footer) {
-  @include padding(50px, null, 50px);
-
-  line-height: 200%;
 }

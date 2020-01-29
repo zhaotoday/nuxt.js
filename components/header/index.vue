@@ -1,6 +1,6 @@
 <template>
-  <div class="c-footer">
-    Footer
+  <div class="c-header">
+    Header
   </div>
 </template>
 
