@@ -7,5 +7,5 @@ export default {
     detail: {}
   }),
   mutations,
-  actions,
+  actions
 }
