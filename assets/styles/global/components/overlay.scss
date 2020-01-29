@@ -1,9 +1,0 @@
-@include c(overlay) {
-  $background-color: map-get($colors, c12);
-
-  @include position--fixed(0, 0, 0, 0);
-
-  background-color: $background-color;
-  opacity: .5;
-  z-index: map-get($z-indexes, c-overlay);
-}

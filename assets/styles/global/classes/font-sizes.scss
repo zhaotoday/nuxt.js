@@ -3,7 +3,7 @@
     font-size: px2rpx($item);
   }
 
-  .fs#{$item} {
+  .fs#{$item / 1px} {
     @extend %fs#{$item / 1px};
   }
 }
