@@ -2,21 +2,9 @@ $font-size: 14px;
 
 $font-family: "Arial", "Microsoft YaHei", "黑体", "宋体", sans-serif;
 
-$font-sizes: (
-  fs12: 12px,
-  fs14: 14px,
-  fs16: 16px,
-  fs18: 18px,
-  fs20: 20px,
-  fs22: 22px,
-  fs26: 26px,
-  fs28: 28px,
-  fs40: 40px,
-  fs42: 42px,
-  fs44: 44px,
-  fs46: 46px,
-  fs48: 48px
-);
+$min-width: 1200px;
+
+$font-sizes: 12px, 13px, 14px;
 
 $colors: (
   c1: #fff,
@@ -31,5 +19,3 @@ $colors: (
 $z-indexes: (
   c-overlay: 5
 );
-
-$min-width: 1200px;
