@@ -3,7 +3,7 @@ import { mapState } from 'vuex'
 export default {
   head () {
     return {
-      title: 'articles list'
+      title: 'Articles List'
     }
   },
   computed: mapState({

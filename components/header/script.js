@@ -1,3 +1,3 @@
 export default {
-  name: 'c-footer'
+  name: 'c-header'
 }
