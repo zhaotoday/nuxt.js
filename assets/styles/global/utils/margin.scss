@@ -1,0 +1,11 @@
+$items: 16 18 20;
+
+@each $item in $items {
+  .u-mt#{$item} {
+    margin-top: px2rpx($item * 1px);
+  }
+
+  .u-mb#{$item} {
+    margin-bottom: px2rpx($item * 1px);
+  }
+}

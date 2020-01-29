@@ -1,0 +1,17 @@
+$paddings: 16 18 20;
+
+.u-fwb {
+  font-weight: bold;
+}
+
+.u-tac {
+  text-align: center;
+}
+
+.u-cf {
+  @include clearfix;
+}
+
+.u-lt {
+  text-decoration: line-through;
+}

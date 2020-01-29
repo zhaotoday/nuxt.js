@@ -1,0 +1,11 @@
+$items: 16 18 20;
+
+@each $item in $items {
+  .u-pt#{$item} {
+    padding-top: px2rpx($item * 1px);
+  }
+
+  .u-pb#{$item} {
+    padding-bottom: px2rpx($item * 1px);
+  }
+}
