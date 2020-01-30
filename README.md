@@ -1,9 +1,5 @@
 ## 使用
 
-#### 线上示例
-
-[https://www.liruan.cn](https://www.liruan.cn)
-
 #### 命令
 
 ```bash
@@ -64,17 +60,14 @@ build: {
 
 > 参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
 
-配置 PostCSS autoprefixer：
-
+配置 Stylelint：
 ```js
-build: {
-  postcss: {
-    preset: {
-      autoprefixer: {
-        browsers: ['last 2 versions', '> 5%']
-      }
-    }
-  }
+stylelint:{
+  files: [
+    'assets/**/*.scss',
+    'components/**/*.scss',
+    'pages/**/*.scss'
+  ]
 }
 ```
 

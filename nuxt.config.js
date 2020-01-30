@@ -55,15 +55,15 @@ export default {
     */
     extend (config, ctx) {
 
-    },
-    postcss: {
-      preset: {
-        autoprefixer: {
-          browsers: ['last 2 versions', '> 5%']
-        }
-      }
-    },
+    }
     // publicPath: 'https://my-app.lrcdn.cn'
+  },
+  stylelint:{
+    files: [
+      'assets/**/*.scss',
+      'components/**/*.scss',
+      'pages/**/*.scss'
+    ]
   },
 
   router: {
