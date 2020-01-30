@@ -65,7 +65,6 @@ export default {
       'pages/**/*.scss'
     ]
   },
-
   router: {
     extendRoutes (routes, resolve) {
       routes.splice(routes.findIndex(item => item.name === 'index'), 1, {

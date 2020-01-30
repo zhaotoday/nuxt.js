@@ -101,6 +101,25 @@ router: {
 
 > 参考：https://zh.nuxtjs.org/api/configuration-router/#extendroutes
 
+#### 修改 stylelint.config.js
+
+```js
+module.exports = {
+  extends: 'stylelint-config-standard',
+  rules: {
+    'at-rule-no-unknown': [
+      true, {
+        ignoreAtRules: [
+          'each',
+          'extend',
+          'include'
+        ]
+      }
+    ]
+  }
+}
+```
+
 #### 修改 layouts/default.vue
 
 去掉 <style>。
