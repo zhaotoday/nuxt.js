@@ -1,21 +1,21 @@
-import CHeader from '~/components/header'
-import CFooter from '~/components/footer'
+import CHeader from "~/components/header";
+import CFooter from "~/components/footer";
 
 export default {
   components: {
     CHeader,
     CFooter
   },
-  head () {
+  head() {
     return {
-      title: '标题',
+      title: "标题",
       meta: [
         {
-          hid: 'description',
-          name: 'description',
-          content: '描述'
+          hid: "description",
+          name: "description",
+          content: "描述"
         }
       ]
-    }
+    };
   }
-}
+};

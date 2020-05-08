@@ -1,3 +1,3 @@
 export default {
-  name: 'c-header'
-}
+  name: "c-header"
+};

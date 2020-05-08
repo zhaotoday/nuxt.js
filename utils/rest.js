@@ -1,15 +1,15 @@
-import REST from 'jt-rest'
+import REST from "jt-rest";
 
 export default class extends REST {
-  async request (method = 'GET', options = {}) {
+  async request(method = "GET", options = {}) {
     if (!options.query) {
-      options.query = {}
+      options.query = {};
     }
 
-    options.query._ = new Date().getTime()
+    options.query._ = new Date().getTime();
 
-    const { data } = await super.request(method, options)
+    const { data } = await super.request(method, options);
 
-    return data
+    return data;
   }
 }
