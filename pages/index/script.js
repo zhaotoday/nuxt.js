@@ -1,11 +1,7 @@
-import CHeader from "~/components/header";
-import CFooter from "~/components/footer";
+import { Component, Vue } from "vue-property-decorator";
 
-export default {
-  components: {
-    CHeader,
-    CFooter
-  },
+@Component
+export default class extends Vue {
   head() {
     return {
       title: "标题",
@@ -18,4 +14,4 @@ export default {
       ]
     };
   }
-};
+}

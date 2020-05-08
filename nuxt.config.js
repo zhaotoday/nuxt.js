@@ -27,7 +27,7 @@ module.exports = {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ["~/plugins/combined-inject.js"],
+  plugins: ["~/plugins/combined-inject.js", "~/plugins/global-components.js"],
   /*
    ** Nuxt.js dev-modules
    */
@@ -41,6 +41,29 @@ module.exports = {
    ** Nuxt.js modules
    */
   modules: [],
+  router: {
+    extendRoutes(routes, resolve) {
+      routes.splice(
+        routes.findIndex(item => item.name === "index"),
+        1,
+        {
+          name: "index",
+          path: "/",
+          component: resolve(__dirname, "pages/index/index.vue")
+        }
+      );
+
+      routes.splice(
+        routes.findIndex(item => item.name === "404"),
+        1,
+        {
+          name: "404",
+          path: "*",
+          component: resolve(__dirname, "pages/404/index.vue")
+        }
+      );
+    }
+  },
   /*
    ** Build configuration
    */
@@ -52,29 +75,6 @@ module.exports = {
     extend(config, ctx) {},
     stylelint: {
       files: ["assets/**/*.scss", "components/**/*.scss", "pages/**/*.scss"]
-    },
-    router: {
-      extendRoutes(routes, resolve) {
-        routes.splice(
-          routes.findIndex(item => item.name === "index"),
-          1,
-          {
-            name: "index",
-            path: "/",
-            component: resolve(__dirname, "pages/index/index.vue")
-          }
-        );
-
-        routes.splice(
-          routes.findIndex(item => item.name === "404"),
-          1,
-          {
-            name: "404",
-            path: "*",
-            component: resolve(__dirname, "pages/404/index.vue")
-          }
-        );
-      }
     }
   }
 };
