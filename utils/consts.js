@@ -1,5 +1,5 @@
 // 接口地址
-const ApiUrl = "http://localhost:3002/public";
+const ApiUrl = "https://api.gouyun.cn/public";
 
 // 分页大小
 const PageSize = 10;

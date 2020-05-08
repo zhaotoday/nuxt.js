@@ -27,7 +27,11 @@ module.exports = {
   /*
    ** Plugins to load before mounting the App
    */
-  plugins: ["~/plugins/combined-inject.js", "~/plugins/global-components.js"],
+  plugins: [
+    "~/plugins/combined-inject.js",
+    "~/plugins/global-components.js",
+    "~/plugins/class-component-hooks.js"
+  ],
   /*
    ** Nuxt.js dev-modules
    */
