@@ -8,7 +8,7 @@ const app = new Koa()
 const config = require('../nuxt.config.js')
 config.dev = app.env !== 'production'
 
-async function start () {
+async function start() {
   // Instantiate nuxt.js
   const nuxt = new Nuxt(config)
 
@@ -17,12 +17,11 @@ async function start () {
     port = process.env.PORT || 3000
   } = nuxt.options.server
 
+  await nuxt.ready()
   // Build in development
   if (config.dev) {
     const builder = new Builder(nuxt)
     await builder.build()
-  } else {
-    await nuxt.ready()
   }
 
   app.use((ctx) => {
