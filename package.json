@@ -14,12 +14,13 @@
   },
   "dependencies": {
     "cross-env": "^5.2.1",
-    "jt-helpers": "^0.0.7",
-    "jt-rest": "^0.0.11",
+    "jt-helpers": "0.0.7",
+    "jt-rest": "0.0.11",
     "koa": "^2.11.0",
-    "minireset.css": "^0.0.6",
-    "nuxt": "^2.0.0",
-    "sass-utils": "^1.0.23"
+    "minireset.css": "0.0.6",
+    "nuxt": "^2.12.2",
+    "sass-utils": "^1.0.23",
+    "vue-property-decorator": "^8.4.2"
   },
   "devDependencies": {
     "@nuxtjs/eslint-config": "^2.0.0",

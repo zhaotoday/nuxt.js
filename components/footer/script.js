@@ -1,3 +1,4 @@
-export default {
-  name: "c-footer"
-};
+import { Component, Vue } from "vue-property-decorator";
+
+@Component
+export default class Footer extends Vue {}

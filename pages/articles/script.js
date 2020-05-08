@@ -1,18 +1,22 @@
+import { Component, Vue } from "vue-property-decorator";
 import { mapState } from "vuex";
 
-export default {
+@Component({
+  computed: mapState({
+    list: state => state.articles.list
+  })
+})
+export default class extends Vue {
   head() {
     return {
       title: "Articles List"
     };
-  },
-  computed: mapState({
-    list: state => state.articles.list
-  }),
+  }
+
   async fetch({ store, app }) {
     await store.dispatch("articles/getList", {
       offset: 0,
-      limit: app.$consts.PAGE_SIZE
+      limit: app.$consts.PageSize
     });
   }
-};
+}

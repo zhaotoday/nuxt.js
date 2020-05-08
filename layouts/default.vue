@@ -1,3 +1,3 @@
 <template>
-  <nuxt />
+  <nuxt></nuxt>
 </template>
