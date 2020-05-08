@@ -43,9 +43,7 @@ $ npm stop
 添加全局 CSS：
 
 ```js
-css: [
-  '~/assets/styles/global/index.scss'
-]
+css: ["~/assets/styles/global/index.scss"];
 ```
 
 > 参考：https://zh.nuxtjs.org/guide/configuration#css
@@ -54,20 +52,17 @@ CSS 提取到一个单独的 CSS 文件中：
 
 ```js
 build: {
-  extractCSS: true
+  extractCSS: true;
 }
-``` 
+```
 
 > 参考：https://zh.nuxtjs.org/api/configuration-build#extractcss
 
 配置 Stylelint：
+
 ```js
-stylelint:{
-  files: [
-    'assets/**/*.scss',
-    'components/**/*.scss',
-    'pages/**/*.scss'
-  ]
+stylelint: {
+  files: ["assets/**/*.scss", "components/**/*.scss", "pages/**/*.scss"];
 }
 ```
 
@@ -75,7 +70,7 @@ stylelint:{
 
 ```js
 build: {
-  publicPath: 'https://my-app.lrcdn.cn'
+  publicPath: "https://my-app.lrcdn.cn";
 }
 ```
 
@@ -105,19 +100,16 @@ router: {
 
 ```js
 module.exports = {
-  extends: 'stylelint-config-standard',
+  extends: "stylelint-config-standard",
   rules: {
-    'at-rule-no-unknown': [
-      true, {
-        ignoreAtRules: [
-          'each',
-          'extend',
-          'include'
-        ]
+    "at-rule-no-unknown": [
+      true,
+      {
+        ignoreAtRules: ["each", "extend", "include"]
       }
     ]
   }
-}
+};
 ```
 
 #### 修改 layouts/default.vue
@@ -148,8 +140,9 @@ module.exports = {
 
 #### 文章
 
-- [Nuxt开发经验分享，让你踩少点坑！](https://www.jianshu.com/p/840169ba92e6)
+- [Nuxt 开发经验分享，让你踩少点坑！](https://www.jianshu.com/p/840169ba92e6)
 
 #### 视频
-- [2018千锋Web前端视频教程-VUE服务器端渲染之NUXT实战](https://www.bilibili.com/video/av37561150/?p=1)
-- [Nuxt.js免费视频教程 开启SSR渲染](https://www.bilibili.com/video/av36353273/?p=1)
+
+- [2018 千锋 Web 前端视频教程-VUE 服务器端渲染之 NUXT 实战](https://www.bilibili.com/video/av37561150/?p=1)
+- [Nuxt.js 免费视频教程 开启 SSR 渲染](https://www.bilibili.com/video/av36353273/?p=1)

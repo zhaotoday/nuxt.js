@@ -3,13 +3,8 @@
     {
       "name": "my-app",
       "script": "./server/index.js",
-      "watch": [
-        "src"
-      ],
-      "ignore_watch": [
-        "node_modules",
-        "logs"
-      ],
+      "watch": ["src"],
+      "ignore_watch": ["node_modules", "logs"],
       "env_production": {
         "NODE_ENV": "production"
       }
