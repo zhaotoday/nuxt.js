@@ -6,6 +6,6 @@ export default class extends REST {
     super();
 
     this.baseURL = consts.ApiUrl;
-    this.path = "categories";
+    this.path = "articles";
   }
 }
