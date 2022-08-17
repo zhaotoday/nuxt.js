@@ -1,0 +1,25 @@
+@use "sass:map";
+
+$font-sizes: $pxes;
+
+$component-path: "~/assets/styles/global/components/";
+
+$colors: (
+  white: white,
+  black: black,
+  bg: #eaf0f6,
+  regular: #31363b,
+  primary: #27a2f2,
+  secondary: #28e1ec,
+  secondary-hl: #1adde8,
+  placeholder: #c0c4cc,
+  g1: #f5f7fa,
+  g2: #f2f6fc,
+  g3: #ebeef5,
+  g4: #e4e7ed,
+  g5: #dcdfe6,
+  g6: #c0c4cc,
+  g7: #909399,
+  g8: #606266,
+  g9: #303133,
+);

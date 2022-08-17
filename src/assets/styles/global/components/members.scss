@@ -1,0 +1,28 @@
+@use "sass:map";
+
+@include c(members) {
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+
+  @include e(item) {
+    display: block;
+    width: 176px;
+
+    &:hover {
+      p {
+        background-color: map.get($colors, secondary-hl);
+      }
+    }
+
+    img {
+      @include size(100%, 210px);
+
+      display: block;
+    }
+
+    p {
+      @include text--middle(40px);
+    }
+  }
+}

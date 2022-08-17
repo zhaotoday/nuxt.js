@@ -1,0 +1,35 @@
+@import "~/assets/styles/utils";
+
+@include v(information-list) {
+  @include b(list) {
+    height: 500px;
+
+    a {
+      @include text--middle(40px);
+
+      position: relative;
+      width: 100%;
+      display: block;
+      font-size: 16px;
+      color: map-get($colors, g8);
+
+      &:hover {
+        color: map-get($colors, regular);
+      }
+    }
+
+    @include e(title) {
+      @include text--overflow;
+
+      display: block;
+      width: 870px;
+    }
+
+    @include e(time) {
+      @include position--absolute(50%, 0);
+
+      transform: translateY(-50%);
+      display: block;
+    }
+  }
+}

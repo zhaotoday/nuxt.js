@@ -1,0 +1,51 @@
+@import "~/assets/styles/utils";
+
+@include b(news) {
+  @include c(panel) {
+    @include e(body) {
+      position: relative;
+      height: 240px;
+    }
+  }
+
+  @include e(image) {
+    @include size(360px, 240px);
+
+    display: block;
+    border-radius: 4px;
+  }
+
+  @include b(list) {
+    @include position--absolute(0, 0);
+
+    width: 390px;
+
+    a {
+      @include text--middle(40px);
+
+      position: relative;
+      width: 100%;
+      display: block;
+      font-size: 16px;
+      color: map-get($colors, g8);
+
+      &:hover {
+        color: map-get($colors, regular);
+      }
+    }
+
+    @include e(title) {
+      @include text--overflow;
+
+      display: block;
+      width: 300px;
+    }
+
+    @include e(time) {
+      @include position--absolute(50%, 0);
+
+      transform: translateY(-50%);
+      display: block;
+    }
+  }
+}

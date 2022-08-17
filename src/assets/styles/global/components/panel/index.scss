@@ -1,0 +1,49 @@
+@include c(panel) {
+  @include e(head) {
+    position: relative;
+    border-radius: 4px;
+    margin-bottom: 16px;
+  }
+
+  @include e(title) {
+    @include size(160px, 48px);
+
+    position: relative;
+    box-sizing: border-box;
+    line-height: 48px;
+    color: white;
+    padding-left: 44px;
+    background: {
+      image: url("#{$component-path}panel/images/title-bg.png");
+      size: 100% 100%;
+    }
+
+    i {
+      @include position--absolute(50%, null, null, 16px);
+
+      transform: translateY(-50%);
+      font-size: 18px;
+    }
+
+    span {
+      font-size: 16px;
+    }
+  }
+
+  @include e(extra) {
+    @include position--absolute(50%, 14px);
+
+    transform: translateY(-50%);
+
+    a {
+      display: inline-block;
+      line-height: 100%;
+      padding: 6px;
+      font-size: 14px;
+      color: map-get($colors, g8);
+    }
+  }
+
+  @include e(body) {
+  }
+}

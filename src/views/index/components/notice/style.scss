@@ -1,0 +1,61 @@
+@import "~/assets/styles/utils";
+
+@include b(notices) {
+  @include c(panel) {
+    @include e(body) {
+      position: relative;
+      height: 240px + 16px;
+    }
+  }
+
+  @include e(image) {
+    @include size(360px, 240px);
+
+    display: block;
+    border-radius: 4px;
+  }
+
+  @include b(list) {
+    margin-top: -16px;
+
+    a {
+      @include padding(16px, null, 16px);
+
+      position: relative;
+      display: block;
+      color: map-get($colors, g8);
+      border-bottom: 1px solid map-get($colors, g4);
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      &:hover {
+        color: map-get($colors, regular);
+      }
+    }
+
+    @include e(title) {
+      @include text--overflow(2);
+      @include position--absolute(50%, 0, null, 60px + 16px);
+
+      transform: translateY(-50%);
+      line-height: 160%;
+    }
+  }
+
+  @include b(time) {
+    @include position--absolute(50%, null, null, 50%);
+
+    transform: translateX(-50%) translateY(-50%);
+    width: 100%;
+
+    @include e(wrap) {
+      @include size(60px, 60px);
+
+      position: relative;
+      background-color: white;
+      border-radius: 4px;
+    }
+  }
+}

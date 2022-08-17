@@ -1,0 +1,17 @@
+@use "sass:map";
+
+@include c(table) {
+  border-collapse: collapse;
+  width: 100%;
+
+  th,
+  td {
+    border: 1px solid map.get($colors, g4);
+    padding: 6px;
+    text-align: left;
+  }
+
+  th {
+    background-color: map.get($colors, g1);
+  }
+}

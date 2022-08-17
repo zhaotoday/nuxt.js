@@ -1,0 +1,16 @@
+@include c(block) {
+  @include padding(80px, null, 80px);
+
+  @include e(title) {
+    padding-bottom: 40px;
+    font-size: 28px;
+    font-weight: bold;
+    text-align: center;
+  }
+
+  @include e(extra) {
+    font-size: 16px;
+    text-align: center;
+    padding-bottom: 40px;
+  }
+}

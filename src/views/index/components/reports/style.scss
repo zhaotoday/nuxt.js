@@ -1,0 +1,43 @@
+@import "~/assets/styles/utils";
+
+@include b(reports) {
+  @include c(panel) {
+    @include e(body) {
+      position: relative;
+      height: 280px;
+    }
+  }
+
+  @include e(image) {
+    @include size(360px, 240px);
+
+    display: block;
+    border-radius: 4px;
+  }
+
+  @include b(list) {
+    margin-top: -16px;
+
+    a {
+      @include padding(8px, null, 8px);
+
+      position: relative;
+      display: block;
+      color: map-get($colors, g8);
+      border-bottom: 1px solid map-get($colors, g4);
+
+      &:last-child {
+        border-bottom: 0;
+      }
+
+      &:hover {
+        color: map-get($colors, regular);
+      }
+    }
+
+    @include e(title) {
+      padding-top: 8px;
+      line-height: 140%;
+    }
+  }
+}

@@ -1,0 +1,25 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include v(research-area-list) {
+  @include b(list) {
+    @include e(item) {
+      padding: 10px;
+      display: flex;
+      color: map.get($colors, regular);
+    }
+
+    @include e(image) {
+      @include size(120px, 120px);
+
+      margin-right: 10px;
+    }
+
+    @include e(body) {
+      p {
+        line-height: 150%;
+      }
+    }
+  }
+}

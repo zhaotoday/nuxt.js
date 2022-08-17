@@ -1,0 +1,32 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include l(sidebar) {
+  width: 200px;
+  border: 1px solid map.get($colors, g3);
+  border-radius: 2px;
+  overflow: hidden;
+  float: left;
+  margin-left: 24px;
+
+  @include e(item) {
+    @include text--middle(50px);
+
+    display: block;
+    padding-left: 14px;
+    font-size: 16px;
+    color: map.get($colors, regular);
+    background-color: white;
+    border-bottom: 1px solid map.get($colors, g3);
+
+    &:last-child {
+      border-bottom: 0;
+    }
+
+    @include s(is-active) {
+      background: linear-gradient(90deg, #096dcb 0%, #27a2f2 100%);
+      color: white;
+    }
+  }
+}

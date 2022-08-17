@@ -1,0 +1,25 @@
+@use "sass:map";
+
+@include c(content) {
+  @include e(title) {
+    @include padding(30px, null, 10px);
+
+    font-size: 22px;
+    font-weight: bold;
+    line-height: 120%;
+    text-align: center;
+  }
+
+  @include e(desc) {
+    font-size: 14px;
+    color: map.get($colors, g8);
+    padding-bottom: 30px;
+    text-align: center;
+  }
+
+  @include e(body) {
+    @include padding(20px, null, 40px);
+
+    min-height: 600px;
+  }
+}

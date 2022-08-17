@@ -1,0 +1,19 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include l(main) {
+  @include margin(null, 24px, null, 24px);
+
+  @include s(has-sidebar) {
+    margin-left: 24px + 200px + 24px;
+  }
+
+  @include e(title) {
+    padding-bottom: 14px;
+    border-bottom: 1px solid map.get($colors, g3);
+    font-size: 22px;
+    color: map.get($colors, primary);
+    line-height: 100%;
+  }
+}

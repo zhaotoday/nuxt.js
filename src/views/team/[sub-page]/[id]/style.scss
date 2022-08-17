@@ -1,0 +1,31 @@
+@import "~/assets/styles/utils";
+
+@include v(team-detail) {
+  @include b(user) {
+    display: flex;
+
+    @include e(avatar) {
+      @include size(176px * 1.24, 210px * 1.24);
+
+      margin-right: 20px;
+    }
+
+    @include e(info) {
+      flex: 1;
+
+      @include c(table) {
+        box-sizing: border-box;
+        height: 210px * 1.24;
+
+        td {
+          padding: 10px;
+        }
+      }
+    }
+
+    @include e(label) {
+      width: 100px;
+      background-color: map-get($colors, g1);
+    }
+  }
+}

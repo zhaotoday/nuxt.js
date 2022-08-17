@@ -1,0 +1,39 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include c(search) {
+  @include size(236px, 40px);
+
+  background-color: white;
+  border: 1px solid #eaf0f6;
+  border-radius: 4px;
+  overflow: hidden;
+
+  @include e(input) {
+    @include size(196px, 100%);
+
+    line-height: 40px;
+    text-indent: 10px;
+    font-size: 14px;
+    border: 0;
+    outline: none;
+  }
+
+  @include e(submit) {
+    @include size(40px, 40px);
+    @include position--absolute(0, 0);
+
+    line-height: 40px;
+    background-color: #27a2f2;
+    cursor: pointer;
+
+    i {
+      @include position--absolute(50%, null, null, 50%);
+
+      transform: translateX(-50%) translateY(-50%);
+      font-size: 16px;
+      color: white;
+    }
+  }
+}

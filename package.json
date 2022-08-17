@@ -1,0 +1,23 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "start:prod": "pm2 start processes.json --env production",
+    "stop": "pm2 stop fzznx-fjme-www"
+  },
+  "devDependencies": {
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "nuxt": "^3.0.0-rc.8",
+    "prettier": "^2.7.1",
+    "sass": "^1.54.4"
+  },
+  "dependencies": {
+    "jt-helpers": "^1.0.11",
+    "jt-time": "^0.0.9",
+    "sass-utils": "^1.1.10",
+    "swiper": "^8.3.2"
+  }
+}

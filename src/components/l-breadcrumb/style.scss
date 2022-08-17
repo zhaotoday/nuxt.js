@@ -1,0 +1,25 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include l(breadcrumb) {
+  @include size(auto, 140px);
+
+  position: relative;
+  border-radius: 4px;
+  background: {
+    image: url("./images/bg.png");
+    size: 100% 100%;
+  }
+
+  @include e(body) {
+    @include position--absolute(50%, null, null, 30px);
+
+    transform: translateY(-50%);
+    color: white;
+
+    a {
+      color: white;
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "apps": [
+    {
+      "name": "fzznx-fjme-www",
+      "exec_mode": "cluster",
+      "instances": "max",
+      "watch": ["src"],
+      "ignore_watch": ["node_modules", "logs"],
+      "script": "./.output/server/index.mjs",
+      "env_production": {
+        "NODE_ENV": "production"
+      }
+    }
+  ]
+}
