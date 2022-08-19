@@ -1,8 +1,17 @@
 <template>
-  <div class="p-index u-pt20">
-    <div class="b-banner c-container u-br8 u-mb20"></div>
+  <div class="p-index">
+    <div class="b-banner u-mb20">
+      <div class="c-container"></div>
+    </div>
     <div class="bg-white">
-      <div class="c-container bg-white">abc</div>
+      <div class="c-block c-container">
+        <div class="c-block__title">地方大师傅</div>
+        <div class="c-block__extra">的高富帅的规定</div>
+      </div>
+    </div>
+    <div class="c-block c-container">
+      <div class="c-block__title">地方大师傅</div>
+      <div class="c-block__extra">的高富帅的规定</div>
     </div>
   </div>
 </template>
