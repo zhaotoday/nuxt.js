@@ -1,36 +1,93 @@
 @use "sass:map";
 
-@import "~/assets/styles/utils";
+@import "~@/assets/styles/utils";
 
 @include l(header) {
-  @include size(100%, 160px);
+  @import "./components/uc-nav/style";
+  @import "./components/user-info/style";
 
-  position: relative;
-  background: {
-    image: url("./images/bg.png");
-    size: auto 100%;
-    position: center center;
-  }
+  @include position--fixed(0, null, null, 0);
 
-  @include c(container) {
-    height: 160px;
-  }
+  width: 100%;
+  height: map.get($the-layout, the-header, height);
+  z-index: 2;
+  background-color: white;
+  border-bottom: 1px solid map.get($border-color, lighter);
+  box-shadow: 0 0 10px 0 rgba(168, 168, 171, 0.1);
 
   @include e(logo) {
-    @include position--absolute(50%, null, null, 0);
-    @include size(568px, 120px);
+    @include position--absolute(50%, null, null, 30px);
+    @include text--middle(30px);
 
     transform: translateY(-50%);
     display: block;
+    font-size: 20px;
+    padding-left: 100px;
+    text-decoration: none;
+    color: map.get($text-color, regular);
     background: {
       image: url("./images/logo.png");
-      size: 100% 100%;
+      size: auto 100%;
+      repeat: no-repeat;
     }
   }
 
-  @include c(search) {
-    @include position--absolute(50%, 0);
+  @include e(nav) {
+    @include position--absolute(50%, null, null, 490px);
 
     transform: translateY(-50%);
+
+    li {
+      @include padding(10px, 20px, 10px, 20px);
+
+      position: relative;
+      font-size: 18px;
+      line-height: 100%;
+      float: left;
+      cursor: pointer;
+
+      @include s(is-active) {
+        color: map.get($base-colors, primary);
+
+        &::after {
+          @include size(20px, 4px);
+          @include position--absolute(null, null, 0px, 50%);
+
+          transform: translateX(-50%);
+          border-radius: 2px;
+          content: "";
+          display: block;
+          background-color: map.get($base-colors, primary);
+        }
+      }
+    }
+  }
+
+  @include e(link) {
+    @include position--absolute(50%, 170px);
+
+    transform: translateY(-50%);
+    line-height: 100%;
+
+    span {
+      padding: 6px;
+      cursor: pointer;
+      font-size: 14px;
+      margin-right: 10px;
+    }
+  }
+
+  @include e(login) {
+    @include position--absolute(50%, 30px);
+
+    transform: translateY(-50%);
+  }
+
+  @include e(user) {
+    @include position--absolute(50%, 30px);
+
+    transform: translateY(-50%);
+    line-height: 100%;
+    cursor: pointer;
   }
 }
