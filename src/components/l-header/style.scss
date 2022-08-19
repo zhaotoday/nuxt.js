@@ -1,19 +1,15 @@
 @use "sass:map";
 
-@import "~@/assets/styles/utils";
+@import "~/assets/styles/utils";
 
 @include l(header) {
-  @import "./components/uc-nav/style";
-  @import "./components/user-info/style";
-
   @include position--fixed(0, null, null, 0);
 
   width: 100%;
   height: map.get($the-layout, the-header, height);
   z-index: 2;
   background-color: white;
-  border-bottom: 1px solid map.get($border-color, lighter);
-  box-shadow: 0 0 10px 0 rgba(168, 168, 171, 0.1);
+  border-bottom: 1px solid map.get($colors, g2);
 
   @include e(logo) {
     @include position--absolute(50%, null, null, 30px);
@@ -24,7 +20,6 @@
     font-size: 20px;
     padding-left: 100px;
     text-decoration: none;
-    color: map.get($text-color, regular);
     background: {
       image: url("./images/logo.png");
       size: auto 100%;
@@ -47,7 +42,7 @@
       cursor: pointer;
 
       @include s(is-active) {
-        color: map.get($base-colors, primary);
+        color: map.get($colors, primary);
 
         &::after {
           @include size(20px, 4px);
@@ -57,23 +52,9 @@
           border-radius: 2px;
           content: "";
           display: block;
-          background-color: map.get($base-colors, primary);
+          background-color: map.get($colors, primary);
         }
       }
-    }
-  }
-
-  @include e(link) {
-    @include position--absolute(50%, 170px);
-
-    transform: translateY(-50%);
-    line-height: 100%;
-
-    span {
-      padding: 6px;
-      cursor: pointer;
-      font-size: 14px;
-      margin-right: 10px;
     }
   }
 
@@ -81,13 +62,5 @@
     @include position--absolute(50%, 30px);
 
     transform: translateY(-50%);
-  }
-
-  @include e(user) {
-    @include position--absolute(50%, 30px);
-
-    transform: translateY(-50%);
-    line-height: 100%;
-    cursor: pointer;
   }
 }

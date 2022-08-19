@@ -9,7 +9,7 @@ $colors: (
   black: black,
   bg: #eaf0f6,
   regular: #31363b,
-  primary: #27a2f2,
+  primary: #0080ff,
   secondary: #28e1ec,
   secondary-hl: #1adde8,
   placeholder: #c0c4cc,
@@ -22,4 +22,10 @@ $colors: (
   g7: #909399,
   g8: #606266,
   g9: #303133,
+);
+
+$the-layout: (
+  the-header: (
+    height: 66px,
+  ),
 );
