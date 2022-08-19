@@ -1,0 +1,7 @@
+@include c(button) {
+  @include text--middle(34px);
+  @include padding(null, 14px, null, 14px);
+
+  border-radius: 4px;
+  cursor: pointer;
+}

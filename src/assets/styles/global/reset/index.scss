@@ -7,6 +7,7 @@ body {
   background-color: map.get($colors, bg);
   overflow: auto;
   min-width: 1240px;
+  padding-top: map.get($the-layout, the-header, height);
 
   &::-webkit-scrollbar {
     width: 10px;

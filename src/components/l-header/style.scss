@@ -9,7 +9,7 @@
   height: map.get($the-layout, the-header, height);
   z-index: 2;
   background-color: white;
-  border-bottom: 1px solid map.get($colors, g2);
+  border-bottom: 1px solid map.get($colors, g3);
 
   @include e(logo) {
     @include position--absolute(50%, null, null, 30px);
@@ -60,7 +60,7 @@
     }
   }
 
-  @include e(login) {
+  @include e(contact) {
     @include position--absolute(50%, 30px);
 
     transform: translateY(-50%);
