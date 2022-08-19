@@ -1,11 +1,13 @@
 @import "~/assets/styles/utils";
 
 @include p(index) {
+  @import "./components/schemes/style";
+
   @include b(banner) {
     height: 400px;
     background: {
-      color: #e1f1ff;
-      // image: url("/images/pages/index/banner.png");
+      //color: #e1f1ff;
+      image: url("/images/pages/index/banner.png");
       position: center center;
       size: auto 100%;
     }
