@@ -6,13 +6,21 @@
       <ul>
         <li v-for="(item1, index1) in 3" :key="index1">
           <div class="b-block">
-            <div class="b-block__icon" :class="`is-${index1 + 1}`"></div>
+            <div class="b-block__icon" :class="`is-${index1 + 1}`">
+              <div class="b-block__title fs18 u-fwb">小程序定制开发</div>
+              <div class="b-block__desc fs14">
+                根据需求和行业特性，进行功能开发，微信公众号、小程序、H5定制开发等
+              </div>
+            </div>
             <ul class="b-list">
               <li
                 v-for="(item2, index2) in 3"
                 :key="index2"
+                class="u-lh1"
                 :class="`is-${index1 + 1}-${index2 + 1}`"
-              >公众号</li>
+              >
+                公众号
+              </li>
             </ul>
           </div>
         </li>

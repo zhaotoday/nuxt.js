@@ -1,7 +1,7 @@
 @use "sass:map";
 
 @include c(block) {
-  @include padding(50px, null, 50px);
+  @include padding(70px, null, 70px);
 
   @include e(title) {
     padding-bottom: 10px;
@@ -14,6 +14,6 @@
     color: map.get($colors, g7);
     font-size: 16px;
     text-align: center;
-    padding-bottom: 40px;
+    padding-bottom: 30px;
   }
 }

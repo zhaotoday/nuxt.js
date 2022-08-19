@@ -13,9 +13,12 @@
   }
 
   @include b(block) {
+    position: relative;
+
     @include e(icon) {
       @include size(100%, 380px * 0.5);
 
+      color: white;
       background-size: 100% 100%;
       margin-bottom: 10px;
 
@@ -24,6 +27,14 @@
           background-image: url("./components/schemes/images/#{$i}.png");
         }
       }
+    }
+
+    @include e(title) {
+      @include position--absolute(100px, 20px, null, 20px);
+    }
+
+    @include e(desc) {
+      @include position--absolute(134px, 20px, null, 20px);
     }
   }
 
@@ -44,7 +55,7 @@
           &.is-#{$i}-#{$j} {
             background: {
               color: map.get($colors, g2);
-              size: 48px 48px;
+              size: 38px 38px;
               image: url("./components/schemes/images/#{$i}-#{$j}.webp");
               position: center 20px;
               repeat: no-repeat;

@@ -1,0 +1,31 @@
+@use "sass:map";
+
+@import "~/assets/styles/utils";
+
+@include b(superiorities) {
+  @include b(list) {
+    display: flex;
+    gap: 20px;
+
+    li {
+      flex: 1;
+      height: 120px;
+      border-radius: 4px;
+      box-sizing: border-box;
+      padding-top: 78px;
+      text-align: center;
+
+      @for $i from 1 through 3 {
+        &.is-#{$i} {
+          background: {
+            color: map.get($colors, g2);
+            size: 38px 38px;
+            image: url("./components/schemes/images/#{$i}-#{$j}.webp");
+            position: center 20px;
+            repeat: no-repeat;
+          }
+        }
+      }
+    }
+  }
+}
