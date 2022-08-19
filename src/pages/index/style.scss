@@ -1,21 +1,4 @@
 @import "~/assets/styles/utils";
 
-@include v(index) {
-  @include clearfix;
-
-  @include b(left) {
-    @include position--absolute(0, null, null, 0);
-
-    box-sizing: border-box;
-    padding: 24px;
-    width: 812px;
-    float: left;
-  }
-
-  @include b(right) {
-    box-sizing: border-box;
-    padding: 24px;
-    margin-left: 812px;
-    background-color: #f4f7fa;
-  }
+@include p(index) {
 }

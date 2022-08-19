@@ -18,17 +18,19 @@
     transform: translateY(-50%);
     display: block;
     font-size: 20px;
-    padding-left: 100px;
+    padding-left: 60px;
     text-decoration: none;
+    color: map.get($colors, regular);
     background: {
       image: url("./images/logo.png");
-      size: auto 100%;
+      size: auto 130%;
       repeat: no-repeat;
+      position: 0 center;
     }
   }
 
   @include e(nav) {
-    @include position--absolute(50%, null, null, 490px);
+    @include position--absolute(50%, null, null, 400px);
 
     transform: translateY(-50%);
 
@@ -36,7 +38,7 @@
       @include padding(10px, 20px, 10px, 20px);
 
       position: relative;
-      font-size: 18px;
+      font-size: 16px;
       line-height: 100%;
       float: left;
       cursor: pointer;
