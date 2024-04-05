@@ -5,6 +5,7 @@
 - [一文搞懂Nuxt3基本用法](https://blog.csdn.net/jgku/article/details/128605460)
 - [Nuxt3数据请求及封装](https://blog.csdn.net/m0_55119483/article/details/131709037)
 - [Nuxt3从入门到实战之插件机制&模块使用](https://www.jianshu.com/p/7e3c71605f9d)
+- [nuxt3构建优化](https://www.cnblogs.com/cczlovexw/p/17851988.html)
 
 #### 视频
 - [Nuxt3从入门到实战](https://www.bilibili.com/video/BV1ov411u7fR/)
