@@ -1,6 +1,7 @@
 #### 网站
 - [Nuxt3 文档](https://nuxt.com/)
 - [Nuxt3 中文文档](https://nuxt.com.cn/)
+- [Nuxt UI](https://ui.nuxt.com/)
 
 #### 文章
 - [一文搞懂Nuxt3基本用法](https://blog.csdn.net/jgku/article/details/128605460)
