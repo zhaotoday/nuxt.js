@@ -17,6 +17,7 @@
 - [Nuxt3](https://www.bilibili.com/video/BV18a41147YB/)
 
 #### SEO
+- [SEO 和 Meta](https://nuxt.com.cn/docs/getting-started/seo-meta)
 - [Nuxt SEO](https://github.com/harlan-zw/nuxt-seo)
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
 
