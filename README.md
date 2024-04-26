@@ -18,6 +18,7 @@
 
 #### SEO
 - [Nuxt SEO](https://github.com/harlan-zw/nuxt-seo)
+- [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
 
 #### 示例
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
