@@ -24,3 +24,4 @@
 #### 示例
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
 - [Nuxt Movies](https://github.com/nuxt/movies)
+- [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu)
