@@ -15,3 +15,6 @@
 - [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ/)
 - [Nuxt3](https://www.bilibili.com/video/BV1pP4y127PF/)
 - [Nuxt3](https://www.bilibili.com/video/BV18a41147YB/)
+
+#### 示例
+- [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
