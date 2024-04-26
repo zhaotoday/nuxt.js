@@ -25,3 +25,4 @@
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
 - [Nuxt Movies](https://github.com/nuxt/movies)
 - [nuxt3-edu](https://github.com/webyang-male/nuxt3-edu)
+- [nuxt3-auth-example](https://github.com/damien-hl/nuxt3-auth-example)
