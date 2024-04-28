@@ -24,6 +24,9 @@
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
 
+#### UI
+- [UI Lib Picker](https://ui-libs.vercel.app/)
+
 #### 示例
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
 - [Nuxt Movies](https://github.com/nuxt/movies)
