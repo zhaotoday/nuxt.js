@@ -23,6 +23,7 @@
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
+- [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
 
 #### UI
 - [UI Lib Picker](https://ui-libs.vercel.app/)
