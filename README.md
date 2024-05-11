@@ -25,6 +25,7 @@
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
 - [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
+- [nuxt-security](https://github.com/Baroshem/nuxt-security)
 
 #### UI
 - [UI Lib Picker](https://ui-libs.vercel.app/)
