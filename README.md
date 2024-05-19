@@ -39,3 +39,6 @@
 - [nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)
 - [ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt)
 - [Nuxt 3 Minimal Starter](https://github.com/piniajs/example-nuxt-3)
+
+#### 问题
+- [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
