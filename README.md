@@ -26,7 +26,7 @@
 - [nuxt-modules](https://github.com/nuxt-modules)
 - [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
 - [nuxt-security](https://github.com/Baroshem/nuxt-security)
-- [@pinia-plugin-persistedstate/nuxt](https://prazdevs.github.io/pinia-plugin-persistedstate/frameworks/nuxt-3.html)
+- [@pinia-plugin-persistedstate/nuxt](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/frameworks/nuxt-3.html)
 
 #### UI
 - [UI Lib Picker](https://ui-libs.vercel.app/)
