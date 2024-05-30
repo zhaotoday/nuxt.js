@@ -27,6 +27,7 @@
 - [nuxt-modules](https://github.com/nuxt-modules)
 - [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
 - [nuxt-security](https://github.com/Baroshem/nuxt-security)
+- [@pinia/nuxt](https://pinia.vuejs.org/zh/ssr/nuxt.html)
 - [@pinia-plugin-persistedstate/nuxt](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/frameworks/nuxt-3.html)
 
 #### UI
