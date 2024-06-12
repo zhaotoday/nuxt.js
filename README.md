@@ -42,5 +42,18 @@
 - [ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt)
 - [Nuxt 3 Minimal Starter](https://github.com/piniajs/example-nuxt-3)
 
+#### 漂亮网站
+- https://v3.woonuxt.com/
+- https://strapi.io/
+- https://support.strapi.io/support/home
+- https://nuxt-demo.supastarter.dev/
+- https://spike-nuxtjs-pro-main.netlify.app/
+- https://demo.usenuxt.com/
+- https://www.agencyos.dev/
+- https://happy-paws-with-nuxt-tailwindcss.netlify.app/
+- https://nuxt.com/templates
+- https://saas-template.nuxt.dev/
+- https://gridsome.org/
+
 #### 问题
 - [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
