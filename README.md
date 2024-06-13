@@ -4,6 +4,7 @@
 - [Nuxt UI](https://ui.nuxt.com/)
 
 #### 文章
+- [nuxt3 项目模板，让你开发官网得心应手](https://juejin.cn/post/7362095142743818278)
 - [Nuxt 笔记](https://github.com/cssmagic/Nuxt-Notes)
 - [一文搞懂Nuxt3基本用法](https://blog.csdn.net/jgku/article/details/128605460)
 - [Nuxt3数据请求及封装](https://blog.csdn.net/m0_55119483/article/details/131709037)
