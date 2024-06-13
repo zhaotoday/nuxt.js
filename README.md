@@ -34,6 +34,7 @@
 
 #### UI
 - [UI Lib Picker](https://ui-libs.vercel.app/)
+- [nuxt-ui-pro](https://github.com/nuxt-ui-pro)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
