@@ -58,6 +58,7 @@
 - https://nuxt.com/templates
 - https://saas-template.nuxt.dev/
 - https://gridsome.org/
+- https://landing-template.nuxt.dev/
 
 #### 问题
 - [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
