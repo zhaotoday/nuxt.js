@@ -11,6 +11,7 @@
 - [Nuxt3从入门到实战之插件机制&模块使用](https://www.jianshu.com/p/7e3c71605f9d)
 - [nuxt3构建优化](https://www.cnblogs.com/cczlovexw/p/17851988.html)
 - [Nuxt3-pinia环境下实现数据持久化](https://www.cnblogs.com/WebMadman/p/18054609)
+- [Nuxt v3 最后一个版本已发布，Nuxt v4 即将到来！](https://juejin.cn/post/7347664103039434786)
 
 #### 视频
 - [Nuxt3从入门到实战](https://www.bilibili.com/video/BV1ov411u7fR/)
