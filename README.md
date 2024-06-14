@@ -13,6 +13,10 @@
 - [Nuxt3-pinia环境下实现数据持久化](https://www.cnblogs.com/WebMadman/p/18054609)
 - [Nuxt v3 最后一个版本已发布，Nuxt v4 即将到来！](https://juejin.cn/post/7347664103039434786)
 
+#### 布局
+- [网页自适应设计](https://juejin.cn/post/7301173486893383719)
+- [响应式布局-媒体查询media基本操作和一般适配方案](https://juejin.cn/post/7290163879287685157)
+
 #### 视频
 - [Nuxt3从入门到实战](https://www.bilibili.com/video/BV1ov411u7fR/)
 - [Nuxt3 实战全栈开发简书](https://tehub.com/course/bIpRGyDdBh)
@@ -32,9 +36,6 @@
 - [bourbon](https://www.bourbon.io/docs/latest/)
 - [iCSS](https://github.com/chokcoco/iCSS)
 - [sass-mq](https://github.com/sass-mq/sass-mq)
-
-#### 布局
-- [网页自适应设计](https://juejin.cn/post/7301173486893383719)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
