@@ -26,6 +26,7 @@
 
 #### CSS
 - [include-media](https://github.com/eduardoboucas/include-media)
+- [normalize-scss](https://github.com/JohnAlbin/normalize-scss)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
