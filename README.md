@@ -28,6 +28,7 @@
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss)
 - [juice](https://kylebrumm.com/juice/)
+- [bourbon](https://www.bourbon.io/docs/latest/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
