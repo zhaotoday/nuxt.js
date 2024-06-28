@@ -73,5 +73,8 @@
 - https://gridsome.org/
 - https://landing-template.nuxt.dev/
 
+#### 落地页
+- https://github.com/weijunext/landing-page-boilerplate
+
 #### 问题
 - [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
