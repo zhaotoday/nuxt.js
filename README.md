@@ -59,6 +59,7 @@
 - [nuxt-auth-utils](https://github.com/Atinux/nuxt-auth-utils)
 - [ChatGPT-Nuxt](https://github.com/hylarucoder/ChatGPT-Nuxt)
 - [Nuxt 3 Minimal Starter](https://github.com/piniajs/example-nuxt-3)
+- [nuxt3-template-demo](https://github.com/LUDA0831/nuxt3-template-demo)
 
 #### 漂亮网站
 - https://v3.woonuxt.com/
