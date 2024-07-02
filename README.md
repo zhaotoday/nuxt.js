@@ -79,6 +79,7 @@
 - https://github.com/weijunext/landing-page-boilerplate
 - https://github.com/leoMirandaa/shadcn-landing-page
 - https://shadcn-landing-page.vercel.app/
+- https://github.com/cruip/tailwind-landing-page-template
 
 #### 问题
 - [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
