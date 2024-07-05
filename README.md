@@ -61,6 +61,7 @@
 - [Nuxt 3 Minimal Starter](https://github.com/piniajs/example-nuxt-3)
 - [nuxt3-template-demo](https://github.com/LUDA0831/nuxt3-template-demo)
 - [nuxt3-tailwindcss3-starter-kit](https://github.com/initred/nuxt3-tailwindcss3-starter-kit)
+- [nuxt3-vuetify3-starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
 
 #### 漂亮网站
 - https://v3.woonuxt.com/
