@@ -63,6 +63,7 @@
 - [nuxt3-tailwindcss3-starter-kit](https://github.com/initred/nuxt3-tailwindcss3-starter-kit)
 - [nuxt3-vuetify3-starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
 - [nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter)
+- [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
 
 #### 漂亮网站
 - https://v3.woonuxt.com/
