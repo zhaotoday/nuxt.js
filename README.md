@@ -80,6 +80,7 @@
 - https://gridsome.org/
 - https://landing-template.nuxt.dev/
 - https://nuxt3-tailwind-kit.vercel.app/
+- https://demo.alokai.com/
 
 #### 落地页
 - https://github.com/weijunext/landing-page-boilerplate
