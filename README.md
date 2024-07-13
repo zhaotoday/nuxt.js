@@ -13,6 +13,7 @@
 - [Nuxt3-pinia环境下实现数据持久化](https://www.cnblogs.com/WebMadman/p/18054609)
 - [Nuxt v3 最后一个版本已发布，Nuxt v4 即将到来！](https://juejin.cn/post/7347664103039434786)
 - [我为独立开发者开发落地页模板（上）](https://juejin.cn/post/7344567650457010191)
+- [产品官网设计方案](https://github.com/msh01/awesome_product_design/blob/main/%E4%BA%A7%E5%93%81%E5%AE%98%E7%BD%91%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88-%E6%A8%A1%E6%9D%BF.md)
 
 #### 布局
 - [网页自适应设计](https://juejin.cn/post/7301173486893383719)
