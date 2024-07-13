@@ -68,6 +68,7 @@
 - [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
 
 #### 漂亮网站
+- https://www.talkingdata.com/
 - https://www.digitalocean.com/
 - https://www.leancloud.cn/
 - https://www.tapd.cn/
