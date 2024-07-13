@@ -68,6 +68,7 @@
 - [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
 
 #### 漂亮网站
+- https://worktile.com/
 - https://v3.woonuxt.com/
 - https://strapi.io/
 - https://support.strapi.io/support/home
