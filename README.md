@@ -57,6 +57,7 @@
 - [UIkit](https://getuikit.com/)
 - [shadcn-vue](https://www.shadcn-vue.com/)
 - [UI Thing](https://ui-thing.behonbaker.com/getting-started/introduction)
+- [Vuesax](https://lusaxweb.github.io/vuesax/)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
