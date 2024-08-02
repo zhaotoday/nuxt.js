@@ -53,6 +53,7 @@
 - [nuxt-ui-pro](https://github.com/nuxt-ui-pro)
 - [shadcn-vue](https://www.shadcn-vue.com/)
 - [floatui](https://floatui.com/)
+- [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
