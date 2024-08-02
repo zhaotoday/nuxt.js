@@ -52,6 +52,7 @@
 - [UI Lib Picker](https://ui-libs.vercel.app/)
 - [nuxt-ui-pro](https://github.com/nuxt-ui-pro)
 - [shadcn-vue](https://www.shadcn-vue.com/)
+- [floatui](https://floatui.com/)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
