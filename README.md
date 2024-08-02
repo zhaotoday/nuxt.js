@@ -4,6 +4,7 @@
 - [Nuxt UI](https://ui.nuxt.com/)
 
 #### 文章
+- [官网Web开发方案之媒体查询实现三端适配](https://juejin.cn/post/7252683094204055612)
 - [nuxt3 项目模板，让你开发官网得心应手](https://juejin.cn/post/7362095142743818278)
 - [Nuxt 笔记](https://github.com/cssmagic/Nuxt-Notes)
 - [一文搞懂Nuxt3基本用法](https://blog.csdn.net/jgku/article/details/128605460)
