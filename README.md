@@ -54,6 +54,7 @@
 - [shadcn-vue](https://www.shadcn-vue.com/)
 - [floatui](https://floatui.com/)
 - [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
+- [UIkit](https://getuikit.com/)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
