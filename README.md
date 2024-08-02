@@ -59,6 +59,7 @@
 - [UI Thing](https://ui-thing.behonbaker.com/getting-started/introduction)
 - [Vuesax](https://lusaxweb.github.io/vuesax/)
 - [Vuetify](https://vuetifyjs.com/zh-Hans/)
+- [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
