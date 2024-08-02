@@ -69,6 +69,7 @@
 - [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
 
 #### 漂亮网站
+- https://semi.design/zh-CN/
 - https://douyinfe.com/
 - https://cali.so/
 - https://www.talkingdata.com/
