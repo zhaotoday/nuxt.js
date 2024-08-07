@@ -27,6 +27,7 @@
 - [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ/)
 - [Nuxt3](https://www.bilibili.com/video/BV1pP4y127PF/)
 - [Nuxt3](https://www.bilibili.com/video/BV18a41147YB/)
+- [使用Nuxt3和Unocss实现响应式网页](https://www.bilibili.com/video/BV1eS411P7su/)
 
 #### SEO
 - [SEO 和 Meta](https://nuxt.com.cn/docs/getting-started/seo-meta)
