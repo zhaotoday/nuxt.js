@@ -22,6 +22,7 @@
 - [响应式布局-媒体查询media基本操作和一般适配方案](https://juejin.cn/post/7290163879287685157)
 
 #### 视频
+- [Nuxt3教程](https://www.bilibili.com/video/BV1gu4y1R7Jt/)
 - [Nuxt3从入门到实战](https://www.bilibili.com/video/BV1ov411u7fR/)
 - [Nuxt3 实战全栈开发简书](https://tehub.com/course/bIpRGyDdBh)
 - [Vue3+Typescript从整合到项目实战](https://www.bilibili.com/video/BV1no4y1k7kJ/)
