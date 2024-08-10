@@ -16,6 +16,7 @@
 - [我为独立开发者开发落地页模板（上）](https://juejin.cn/post/7344567650457010191)
 - [产品官网设计方案](https://github.com/msh01/awesome_product_design/blob/main/%E4%BA%A7%E5%93%81%E5%AE%98%E7%BD%91%E8%AE%BE%E8%AE%A1%E6%96%B9%E6%A1%88-%E6%A8%A1%E6%9D%BF.md)
 - [Nuxt3 实战 (十二)：SEO 搜索引擎优化指南](https://juejin.cn/post/7384636920918016010)
+- [unocss 图标方案，这可能是图标的最佳实践](https://juejin.cn/post/7394789388154241033)
 
 #### 布局
 - [网页自适应设计](https://juejin.cn/post/7301173486893383719)
