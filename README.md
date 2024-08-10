@@ -4,6 +4,7 @@
 - [Nuxt UI](https://ui.nuxt.com/)
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 - [Tailwind CSS 中文文档](https://tailwind.nodejs.cn/)
+- [Nuxt3 添加 UnoCSS](https://www.yinchunyu.com/nuxt3/unocss.html)
 
 #### 文章
 - [官网Web开发方案之媒体查询实现三端适配](https://juejin.cn/post/7252683094204055612)
