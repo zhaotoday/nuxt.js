@@ -61,6 +61,7 @@
 - [shadcn-vue](https://www.shadcn-vue.com/)
 - [DaisyUI](https://daisyui.com/)
 - [MerakiUI](https://merakiui.com/components)
+- [kutty](https://kutty.netlify.app/)
 - [Flowbite](https://flowbite.com/)
 - [floatui](https://floatui.com/)
 - [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
