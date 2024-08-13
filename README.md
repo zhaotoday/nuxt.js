@@ -62,6 +62,7 @@
 - [DaisyUI](https://daisyui.com/)
 - [MerakiUI](https://merakiui.com/components)
 - [kutty](https://kutty.netlify.app/)
+- [hyperui](https://www.hyperui.dev/)
 - [Flowbite](https://flowbite.com/)
 - [floatui](https://floatui.com/)
 - [Naive UI](https://www.naiveui.com/zh-CN/os-theme)
