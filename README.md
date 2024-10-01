@@ -75,6 +75,7 @@
 - [Vuetify](https://vuetifyjs.com/zh-Hans/)
 - [awesome-uikit](https://github.com/jaywcjlove/awesome-uikit)
 - [Arco](https://arco.design/)
+- [Next UI](https://nextui.pro/components)
 
 #### 示例
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
