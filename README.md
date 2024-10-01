@@ -115,6 +115,7 @@
 - https://landing-template.nuxt.dev/
 - https://nuxt3-tailwind-kit.vercel.app/
 - https://demo.alokai.com/
+- https://oxygen.supply/#templates
 
 #### 落地页
 - https://www.framer.com/marketplace/category/landing-page/
