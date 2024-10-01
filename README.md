@@ -117,6 +117,7 @@
 - https://demo.alokai.com/
 
 #### 落地页
+- https://www.framer.com/marketplace/category/landing-page/
 - https://github.com/weijunext/landing-page-boilerplate
 - https://github.com/leoMirandaa/shadcn-landing-page
 - https://shadcn-landing-page.vercel.app/
