@@ -50,6 +50,7 @@
 
 #### 动画
 - [ScrollReveal](https://scrollrevealjs.org/)
+- [mo.js](https://mojs.github.io/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
