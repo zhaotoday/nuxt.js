@@ -48,6 +48,9 @@
 - [iCSS](https://github.com/chokcoco/iCSS)
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
+#### 动画
+- [ScrollReveal](https://scrollrevealjs.org/)
+
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
 - [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
