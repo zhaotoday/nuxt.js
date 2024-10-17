@@ -7,6 +7,7 @@
 - [Nuxt3 添加 UnoCSS](https://www.yinchunyu.com/nuxt3/unocss.html)
 
 #### 文章
+- [全栈时代，推荐这16 个极具现代化风格的 UI 网站](https://juejin.cn/post/7366516491608080410)
 - [官网Web开发方案之媒体查询实现三端适配](https://juejin.cn/post/7252683094204055612)
 - [nuxt3 项目模板，让你开发官网得心应手](https://juejin.cn/post/7362095142743818278)
 - [Nuxt 笔记](https://github.com/cssmagic/Nuxt-Notes)
