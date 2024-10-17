@@ -52,6 +52,7 @@
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [mo.js](https://mojs.github.io/)
 - [GSAP](https://stackblitz.com/@GSAP-dev/collections/gsap-vue3-starters)
+- [animejs](https://animejs.com/documentation/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
