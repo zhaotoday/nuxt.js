@@ -49,7 +49,7 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
-- [Oku Motion](https://stackblitz.com/@YeSuX/collections/oku-motion-examples)
+- [Oku Motion](https://github.com/oku-ui/motion)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [mo.js](https://mojs.github.io/)
 - [GSAP](https://stackblitz.com/@GSAP-dev/collections/gsap-vue3-starters)
