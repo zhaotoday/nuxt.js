@@ -67,6 +67,7 @@
 - [Visualization Collection](https://hepengwei.cn/#/html/visualDesign)
 - [animista](https://animista.net/)
 - [simpleparallax](https://simpleparallax.com/)
+- [Magic Effects](https://www.minimamente.com/project/magic/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
