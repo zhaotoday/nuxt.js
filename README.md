@@ -57,6 +57,7 @@
 - [ScrollMagic](http://scrollmagic.io/examples/index.html)
 - [animate.css](https://github.com/animate-css/animate.css)
 - [Hover.css](https://ianlunn.github.io/Hover/)
+- [wow](https://github.com/graingert/wow)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
