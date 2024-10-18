@@ -64,6 +64,7 @@
 - [Framer Motion](https://www.framer.com/motion/)
 - [Rough Notation](https://roughnotation.com/)
 - [barba.js](https://barba.js.org/examples/)
+- [Visualization Collection](https://hepengwei.cn/#/html/visualDesign)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
