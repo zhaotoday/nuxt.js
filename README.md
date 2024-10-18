@@ -68,6 +68,7 @@
 - [animista](https://animista.net/)
 - [simpleparallax](https://simpleparallax.com/)
 - [Magic Effects](https://www.minimamente.com/project/magic/)
+- [velocity.js](http://velocityjs.org/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
