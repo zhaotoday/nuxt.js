@@ -66,6 +66,7 @@
 - [barba.js](https://barba.js.org/examples/)
 - [Visualization Collection](https://hepengwei.cn/#/html/visualDesign)
 - [animista](https://animista.net/)
+- [simpleparallax](https://simpleparallax.com/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
