@@ -63,6 +63,7 @@
 - [kute.js](https://github.com/thednp/kute.js)
 - [Framer Motion](https://www.framer.com/motion/)
 - [Rough Notation](https://roughnotation.com/)
+- [barba.js](https://barba.js.org/examples/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
