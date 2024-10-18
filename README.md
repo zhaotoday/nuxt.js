@@ -59,6 +59,7 @@
 - [Hover.css](https://ianlunn.github.io/Hover/)
 - [wow](https://github.com/graingert/wow)
 - [anijs](https://anijs.github.io/#tryit)
+- [vivus](https://maxwellito.github.io/vivus/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
