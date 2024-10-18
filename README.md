@@ -58,6 +58,7 @@
 - [animate.css](https://github.com/animate-css/animate.css)
 - [Hover.css](https://ianlunn.github.io/Hover/)
 - [wow](https://github.com/graingert/wow)
+- [anijs](https://anijs.github.io/#tryit)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
