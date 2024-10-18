@@ -65,6 +65,7 @@
 - [Rough Notation](https://roughnotation.com/)
 - [barba.js](https://barba.js.org/examples/)
 - [Visualization Collection](https://hepengwei.cn/#/html/visualDesign)
+- [animista](https://animista.net/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
