@@ -56,6 +56,7 @@
 - [animejs](https://animejs.com/documentation/)
 - [ScrollMagic](http://scrollmagic.io/examples/index.html)
 - [animate.css](https://github.com/animate-css/animate.css)
+- [Hover.css](https://ianlunn.github.io/Hover/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
