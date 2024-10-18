@@ -55,6 +55,7 @@
 - [GSAP](https://stackblitz.com/@GSAP-dev/collections/gsap-vue3-starters)
 - [animejs](https://animejs.com/documentation/)
 - [ScrollMagic](http://scrollmagic.io/examples/index.html)
+- [animate.css](https://github.com/animate-css/animate.css)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
