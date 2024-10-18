@@ -61,6 +61,7 @@
 - [anijs](https://anijs.github.io/#tryit)
 - [vivus](https://maxwellito.github.io/vivus/)
 - [kute.js](https://github.com/thednp/kute.js)
+- [Framer Motion](https://www.framer.com/motion/)
 
 #### 库
 - [nuxt-modules](https://github.com/nuxt-modules)
