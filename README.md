@@ -159,6 +159,7 @@
 - https://nextjstemplates.com/
 - https://www.tailwindtoolbox.com/
 - https://uiverse.io/
+- https://www.tailwindawesome.com/
 
 #### 其他
 - https://pageflows.com/
