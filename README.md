@@ -150,6 +150,7 @@
 - https://shadcn-landing-page.vercel.app/
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/Johnkat-Mj/podcas-landing-page
+- https://react-saas.com/
 
 #### 其他
 - https://pageflows.com/
