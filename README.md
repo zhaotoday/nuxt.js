@@ -160,6 +160,7 @@
 - https://www.tailwindtoolbox.com/
 - https://uiverse.io/
 - https://www.tailwindawesome.com/
+- https://tailsc.com/
 
 #### 其他
 - https://pageflows.com/
