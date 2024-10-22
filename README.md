@@ -152,8 +152,11 @@
 - https://github.com/Johnkat-Mj/podcas-landing-page
 - https://react-saas.com/
 
-#### 其他
+#### 模板
 - https://tailspark.co/
+- https://htmlrev.com/
+
+#### 其他
 - https://pageflows.com/
 
 #### 问题
