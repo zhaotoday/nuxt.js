@@ -153,6 +153,7 @@
 - https://react-saas.com/
 
 #### 模板
+- https://chakra-templates.vercel.app/
 - https://tailspark.co/
 - https://htmlrev.com/
 
