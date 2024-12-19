@@ -40,6 +40,9 @@
 - [Nuxt SEO](https://github.com/harlan-zw/nuxt-seo)
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
 
+#### I18N
+- [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
+
 #### CSS
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss)
