@@ -1,41 +1,23 @@
 {
-  "name": "nuxt.js",
-  "version": "1.0.0",
-  "description": "My riveting Nuxt.js project",
-  "author": "zhaojintian",
   "private": true,
   "scripts": {
-    "dev": "cross-env NODE_ENV=development nodemon server/index.js --watch server",
     "build": "nuxt build",
-    "start": "pm2 start processes.json --env production",
-    "stop": "pm2 stop my-app",
-    "generate": "nuxt generate",
-    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
-  },
-  "dependencies": {
-    "cross-env": "^5.2.1",
-    "jt-helpers": "0.0.7",
-    "jt-rest": "0.0.11",
-    "koa": "^2.11.0",
-    "minireset.css": "0.0.6",
-    "nuxt": "^2.12.2",
-    "sass-utils": "^1.0.23",
-    "vue-property-decorator": "^8.4.2"
+    "dev": "nuxt dev",
+    "start:prod": "pm2 start processes.json --env production",
+    "stop": "pm2 stop fzznx-fjme-www"
   },
   "devDependencies": {
-    "@nuxtjs/eslint-config": "^2.0.0",
-    "@nuxtjs/eslint-module": "^1.0.0",
-    "@nuxtjs/stylelint-module": "^3.1.0",
-    "babel-eslint": "^10.0.1",
-    "eslint": "^6.1.0",
-    "eslint-config-prettier": "^6.10.0",
-    "eslint-plugin-nuxt": ">=0.4.2",
-    "eslint-plugin-prettier": "^3.1.2",
-    "node-sass": "^4.14.1",
-    "nodemon": "^1.18.9",
-    "prettier": "^1.19.1",
-    "sass-loader": "^8.0.2",
-    "stylelint": "^10.1.0",
-    "stylelint-config-standard": "^20.0.0"
+    "eslint": "^8.22.0",
+    "eslint-config-prettier": "^8.5.0",
+    "eslint-plugin-vue": "^9.3.0",
+    "nuxt": "^3.0.0-rc.8",
+    "prettier": "^2.7.1",
+    "sass": "^1.54.4"
+  },
+  "dependencies": {
+    "jt-helpers": "^1.0.11",
+    "jt-time": "^0.0.9",
+    "sass-utils": "^1.1.10",
+    "swiper": "^8.3.2"
   }
 }
