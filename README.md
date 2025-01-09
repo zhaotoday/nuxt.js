@@ -52,6 +52,7 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
+- [auto-animate](https://github.com/formkit/auto-animate)
 - [Oku Motion](https://github.com/oku-ui/motion)
 - [ScrollReveal](https://scrollrevealjs.org/)
 - [mo.js](https://mojs.github.io/)
