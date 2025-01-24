@@ -172,3 +172,4 @@
 
 #### 问题
 - [I can't use persisted pinia store](https://github.com/prazdevs/pinia-plugin-persistedstate/issues/220)
+- [Adding an email to a locale crashes app](https://github.com/nuxt-modules/i18n/issues/2609)
