@@ -22,6 +22,7 @@
 - [Nuxt3 实战 (十二)：SEO 搜索引擎优化指南](https://juejin.cn/post/7384636920918016010)
 - [unocss 图标方案，这可能是图标的最佳实践](https://juejin.cn/post/7394789388154241033)
 - [Nodejs PM2 基本使用（快速上手）](https://juejin.cn/post/7444450350190346278)
+- [2025 Nuxt3 值得关注的技术生态 ！](https://juejin.cn/post/7468346288229449728)
 
 #### 布局
 - [网页自适应设计](https://juejin.cn/post/7301173486893383719)
