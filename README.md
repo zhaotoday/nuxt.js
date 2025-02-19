@@ -108,6 +108,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### 示例
+- [primeblocks](https://primeblocks.org/)
 - [nuxtbase](https://github.com/hramtsov13/nuxtbase)
 - [nuxt3-best](https://github.com/codercup/nuxt3-best)
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
