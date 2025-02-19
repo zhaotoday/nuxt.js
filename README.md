@@ -24,6 +24,8 @@
 - [Nodejs PM2 基本使用（快速上手）](https://juejin.cn/post/7444450350190346278)
 - [2025 Nuxt3 值得关注的技术生态 ！](https://juejin.cn/post/7468346288229449728)
 - [Nuxt3 实战 (十二)：SEO 搜索引擎优化指南](https://juejin.cn/post/7384636920918016010)
+- [Nuxt3全栈开发博客 · 配置篇](https://juejin.cn/post/7438802232004558867)
+- [Nuxt3服务端渲染（SSR）与SEO深度解析](https://juejin.cn/post/7472190339749330963)
 
 #### 布局
 - [网页自适应设计](https://juejin.cn/post/7301173486893383719)
