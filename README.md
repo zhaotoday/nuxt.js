@@ -43,6 +43,8 @@
 - [Nuxt SEO](https://github.com/harlan-zw/nuxt-seo)
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
 - [@nuxtjs/robots](https://github.com/nuxt-modules/robots)
+- [@nuxtjs/mdc](https://github.com/nuxt-modules/mdc)
+- [@nuxt/content](https://github.com/nuxt/content)
 
 #### I18N
 - [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
