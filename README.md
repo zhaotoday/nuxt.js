@@ -86,6 +86,7 @@
 - [zod](https://github.com/colinhacks/zod)
 
 #### UI
+- [primevue](https://primevue.org/)
 - [Tailsc](https://tailsc.com/)
 - [UI Lib Picker](https://ui-libs.vercel.app/)
 - [nuxt-ui-pro](https://github.com/nuxt-ui-pro)
