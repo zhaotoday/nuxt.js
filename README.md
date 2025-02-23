@@ -130,6 +130,7 @@
 - [nuxt3-vuetify3-starter](https://github.com/BayBreezy/nuxt3-vuetify3-starter)
 - [nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter)
 - [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
+- [21st.dev](https://21st.dev/)
 
 #### 漂亮网站
 - https://www.landingfolio.com/
