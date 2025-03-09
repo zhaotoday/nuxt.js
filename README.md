@@ -178,6 +178,7 @@
 - https://uiverse.io/
 - https://www.tailwindawesome.com/
 - https://tailsc.com/
+- https://cruip.com/
 
 #### 其他
 - https://pageflows.com/
