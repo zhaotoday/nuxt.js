@@ -133,6 +133,7 @@
 - [21st.dev](https://21st.dev/)
 
 #### 漂亮网站
+- https://www.halo.run/
 - https://www.landingfolio.com/
 - https://uninbox.com/
 - https://semi.design/zh-CN/
