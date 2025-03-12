@@ -90,6 +90,7 @@
 - [@pinia/nuxt](https://pinia.vuejs.org/zh/ssr/nuxt.html)
 - [@pinia-plugin-persistedstate/nuxt](https://prazdevs.github.io/pinia-plugin-persistedstate/zh/frameworks/nuxt-3.html)
 - [zod](https://github.com/colinhacks/zod)
+- [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
 - [primevue](https://primevue.org/)
