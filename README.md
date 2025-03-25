@@ -27,6 +27,7 @@
 - [Nuxt3 实战 (十二)：SEO 搜索引擎优化指南](https://juejin.cn/post/7384636920918016010)
 - [Nuxt3全栈开发博客 · 配置篇](https://juejin.cn/post/7438802232004558867)
 - [Nuxt3服务端渲染（SSR）与SEO深度解析](https://juejin.cn/post/7472190339749330963)
+- [提升网站搜索排名：Next.js的关键SEO配置](https://juejin.cn/post/7297665681017307190)
 
 #### 布局
 - [网页自适应设计](https://juejin.cn/post/7301173486893383719)
