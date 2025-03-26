@@ -94,6 +94,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [radix-ui](https://www.radix-ui.com/)
 - [primevue](https://primevue.org/)
 - [Tailsc](https://tailsc.com/)
 - [UI Lib Picker](https://ui-libs.vercel.app/)
