@@ -94,6 +94,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [inspira-ui](https://inspira-ui.com/)
 - [radix-ui](https://www.radix-ui.com/)
 - [primevue](https://primevue.org/)
 - [Tailsc](https://tailsc.com/)
