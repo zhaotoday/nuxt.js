@@ -62,6 +62,7 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
+- [lottie-web](https://github.com/airbnb/lottie-web)
 - [motion](https://motion.dev/)
 - [auto-animate](https://github.com/formkit/auto-animate)
 - [Oku Motion](https://github.com/oku-ui/motion)
