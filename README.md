@@ -88,6 +88,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [nuxt-mcp](https://github.com/antfu/nuxt-mcp)
 - [nuxt-modules](https://github.com/nuxt-modules)
 - [Nuxt Color Mode](https://github.com/nuxt-modules/color-mode)
 - [nuxt-security](https://github.com/Baroshem/nuxt-security)
