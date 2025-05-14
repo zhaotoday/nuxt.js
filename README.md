@@ -43,6 +43,7 @@
 - [使用Nuxt3和Unocss实现响应式网页](https://www.bilibili.com/video/BV1eS411P7su/)
 
 #### SEO
+- [nuxt3-sitemap](https://github.com/benoitdemaegdt/nuxt3-sitemap)
 - [SEO 和 Meta](https://nuxt.com.cn/docs/getting-started/seo-meta)
 - [Nuxt SEO](https://github.com/harlan-zw/nuxt-seo)
 - [nuxt-jsonld](https://github.com/ymmooot/nuxt-jsonld)
