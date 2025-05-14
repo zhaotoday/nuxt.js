@@ -50,6 +50,7 @@
 - [@nuxtjs/mdc](https://github.com/nuxt-modules/mdc)
 - [@nuxt/content](https://github.com/nuxt/content)
 - [nuxt-seo-utils](https://github.com/harlan-zw/nuxt-seo-utils)
+- [nuxt-link-checker](https://github.com/harlan-zw/nuxt-link-checker)
 
 #### I18N
 - [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
