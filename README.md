@@ -54,6 +54,7 @@
 - [nuxt-seo-utils](https://github.com/harlan-zw/nuxt-seo-utils)
 - [nuxt-link-checker](https://github.com/harlan-zw/nuxt-link-checker)
 - [schema-dts](https://github.com/google/schema-dts)
+- [web-vitals](https://github.com/nuxt-modules/web-vitals)
 
 #### I18N
 - [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
