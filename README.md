@@ -137,6 +137,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### 示例
+- [element-plus-nuxt-starter](https://github.com/element-plus/element-plus-nuxt-starter)
 - [navnav](https://thuvien.org/navnav)
 - [primeblocks](https://primeblocks.org/)
 - [nuxtbase](https://github.com/hramtsov13/nuxtbase)
