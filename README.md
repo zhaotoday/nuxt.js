@@ -107,6 +107,9 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [dashboard-template](https://dashboard-template.nuxt.dev/)
+- [saas-template](https://saas-template.nuxt.dev/)
+- [chat-template](https://chat-template.nuxt.dev/)
 - [woonuxt](https://github.com/scottyzen/woonuxt)
 - [Nuxt Storybook](https://storybook.nuxtjs.org/)
 - [Nuxt Docs Template](https://docs-template.nuxt.dev/)
