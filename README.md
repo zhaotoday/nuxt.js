@@ -94,6 +94,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [tresjs](https://docs.tresjs.org/)
 - [nuxt-booster](https://github.com/basics/nuxt-booster)
 - [nuxt-mcp](https://github.com/antfu/nuxt-mcp)
 - [nuxt-modules](https://github.com/nuxt-modules)
