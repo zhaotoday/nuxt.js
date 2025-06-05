@@ -105,6 +105,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [shurikenui](https://v3.shurikenui.com/)
 - [ui-libs](https://ui-libs.vercel.app/)
 - [originui-vue](https://originui-vue.pages.dev/)
 - [reka-ui](https://reka-ui.com/)
