@@ -105,6 +105,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [woonuxt](https://github.com/scottyzen/woonuxt)
 - [Nuxt Storybook](https://storybook.nuxtjs.org/)
 - [Nuxt Docs Template](https://docs-template.nuxt.dev/)
 - [shurikenui](https://v3.shurikenui.com/)
