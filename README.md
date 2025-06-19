@@ -7,6 +7,7 @@
 - [Nuxt3 添加 UnoCSS](https://www.yinchunyu.com/nuxt3/unocss.html)
 
 #### 文章
+- [🔥Unocss为什么突然火了](https://juejin.cn/post/7513873810698469376)
 - [使用 useSeoMeta 进行 SEO 配置](https://juejin.cn/post/7397274001066295305)
 - [拥抱全栈框架 Nuxt | 部署篇](https://juejin.cn/post/7383205958829113381)
 - [全栈时代，推荐这16 个极具现代化风格的 UI 网站](https://juejin.cn/post/7366516491608080410)
