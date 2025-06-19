@@ -5,6 +5,7 @@
 - [Tailwind CSS](https://tailwindcss.com/docs/installation)
 - [Tailwind CSS 中文文档](https://tailwind.nodejs.cn/)
 - [Nuxt3 添加 UnoCSS](https://www.yinchunyu.com/nuxt3/unocss.html)
+- [UnoCSS Attributify preset](https://unocss.dev/presets/attributify)
 
 #### 文章
 - [🔥Unocss为什么突然火了](https://juejin.cn/post/7513873810698469376)
