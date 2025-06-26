@@ -96,6 +96,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine)
 - [device](https://github.com/nuxt-modules/device)
 - [tresjs](https://docs.tresjs.org/)
 - [nuxt-booster](https://github.com/basics/nuxt-booster)
