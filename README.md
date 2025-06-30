@@ -97,6 +97,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [nuxt/scripts](https://github.com/nuxt/scripts)
 - [docus](https://github.com/nuxtlabs/docus)
 - [nuxt-modules/fontaine](https://github.com/nuxt-modules/fontaine)
 - [device](https://github.com/nuxt-modules/device)
