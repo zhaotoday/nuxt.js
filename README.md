@@ -114,6 +114,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [ui-experiments](https://github.com/origin-space/ui-experiments)
 - [dashboard-template](https://dashboard-template.nuxt.dev/)
 - [saas-template](https://saas-template.nuxt.dev/)
 - [chat-template](https://chat-template.nuxt.dev/)
