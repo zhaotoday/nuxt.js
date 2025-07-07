@@ -152,6 +152,7 @@
 #### React & Next
 - [payload](https://github.com/payloadcms/payload)
 - [ui-layouts](https://www.ui-layouts.com/)
+- [NotionNext](https://github.com/tangly1024/NotionNext)
 
 #### 示例
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
