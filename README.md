@@ -214,6 +214,7 @@
 - https://www.framer.com/marketplace/category/landing-page/
 - https://github.com/weijunext/landing-page-boilerplate
 - https://github.com/leoMirandaa/shadcn-landing-page
+- https://github.com/nobruf/shadcn-landing-page
 - https://shadcn-landing-page.vercel.app/
 - https://github.com/cruip/tailwind-landing-page-template
 - https://github.com/Johnkat-Mj/podcas-landing-page
