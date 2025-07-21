@@ -1,4 +1,5 @@
 #### 网站
+- [Nuxt3 中文文档](https://nuxt.zhcndoc.com/)
 - [Nuxt3 文档](https://nuxt.com/)
 - [Nuxt3 中文文档](https://nuxt.com.cn/)
 - [Nuxt UI](https://ui.nuxt.com/)
