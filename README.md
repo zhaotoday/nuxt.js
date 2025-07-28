@@ -9,6 +9,7 @@
 - [UnoCSS Attributify preset](https://unocss.dev/presets/attributify)
 
 #### 文章
+- [Nuxt3框架入门：nuxt3项目部署](https://juejin.cn/post/7508588026317406259)
 -[Nuxt3-Vue3](https://juejin.cn/post/7497055064617680946)
 - [SSR, SSG, ISR, DPR：一篇文章讲清楚这些眼花缭乱的前端渲染模式](https://juejin.cn/post/7526455081995321398)
 - [🔥Unocss为什么突然火了](https://juejin.cn/post/7513873810698469376)
