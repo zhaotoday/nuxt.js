@@ -188,6 +188,7 @@
 - [nuxt3-starter](https://github.com/nuxtbase/nuxt3-starter)
 - [openai-nuxt3](https://github.com/carefreezi/openai-nuxt3)
 - [21st.dev](https://21st.dev/)
+- [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 
 #### 漂亮网站
 - https://www.surfit.io/
