@@ -103,6 +103,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [vue3-carousel-nuxt](https://github.com/gaetansenn/vue3-carousel-nuxt)
 - [caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth)
 - [nuxt-otel](https://github.com/hannoeru/nuxt-otel)
 - [nuxt/examples](https://github.com/nuxt/examples)
