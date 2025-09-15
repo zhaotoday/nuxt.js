@@ -166,6 +166,7 @@
 - [better-saas](https://www.better-saas.org/)
 
 #### 示例
+- [blocks](https://github.com/tailark/blocks)
 - [portfolio](https://github.com/nuxt-ui-pro/portfolio)
 - [nuxtship-template](https://github.com/Gr33nW33n/nuxtship-template)
 - [nuxt3-blog](https://github.com/yunyuyuan/nuxt3-blog)
