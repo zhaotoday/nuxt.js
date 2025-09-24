@@ -9,6 +9,7 @@
 - [UnoCSS Attributify preset](https://unocss.dev/presets/attributify)
 
 #### 文章
+- [Nuxt.js 国际化配置完整教程（含版本兼容与问题解决）](https://juejin.cn/post/7535665738229891106)
 - [Nuxt3服务端渲染（SSR）与SEO深度解析](https://juejin.cn/post/7472190339749330963)
 - [Nuxt3框架入门：nuxt3项目部署](https://juejin.cn/post/7508588026317406259)
 -[Nuxt3-Vue3](https://juejin.cn/post/7497055064617680946)
