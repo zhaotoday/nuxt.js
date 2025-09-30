@@ -66,6 +66,7 @@
 - [schema-dts](https://github.com/google/schema-dts)
 - [web-vitals](https://github.com/nuxt-modules/web-vitals)
 - [nuxt-gtag](https://github.com/johannschopplich/nuxt-gtag)
+- [@nuxtjs/web-vitals](https://github.com/nuxt-modules/web-vitals)
 
 #### I18N
 - [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
