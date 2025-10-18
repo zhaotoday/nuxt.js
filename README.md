@@ -80,6 +80,7 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
+- [glightbox](https://github.com/biati-digital/glightbox)
 - [motion-vue](https://github.com/motiondivision/motion-vue)
 - [lottie-web](https://github.com/airbnb/lottie-web)
 - [motion](https://motion.dev/)
