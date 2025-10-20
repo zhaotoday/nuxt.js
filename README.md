@@ -174,6 +174,7 @@
 - [better-saas](https://www.better-saas.org/)
 
 #### 示例
+- [pear-landing-page](https://github.com/trypear/pear-landing-page)
 - [blocks](https://github.com/tailark/blocks)
 - [portfolio](https://github.com/nuxt-ui-pro/portfolio)
 - [nuxtship-template](https://github.com/Gr33nW33n/nuxtship-template)
