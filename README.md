@@ -128,6 +128,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [ark-ui](https://ark-ui.com/)
 - [vuestic](https://ui.vuestic.dev/)
 - [nuxt-headlessui](https://github.com/P4sca1/nuxt-headlessui)
 - [unaui](https://www.unaui.com/)
