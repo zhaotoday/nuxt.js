@@ -177,6 +177,7 @@
 - [kokonutui](https://github.com/kokonut-labs/kokonutui)
 
 #### 示例
+- [NuxtPro](https://github.com/PennyJoly/NuxtPro)
 - [pear-landing-page](https://github.com/trypear/pear-landing-page)
 - [blocks](https://github.com/tailark/blocks)
 - [portfolio](https://github.com/nuxt-ui-pro/portfolio)
