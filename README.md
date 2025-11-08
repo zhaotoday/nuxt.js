@@ -205,6 +205,7 @@
 - [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 
 #### 漂亮网站
+- https://www.moqi.love/
 - https://kokonutui.pro/
 - https://www.surfit.io/
 - https://clearbit.com/
