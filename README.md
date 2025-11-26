@@ -175,6 +175,7 @@
 - [NotionNext](https://github.com/tangly1024/NotionNext)
 - [better-saas](https://www.better-saas.org/)
 - [kokonutui](https://github.com/kokonut-labs/kokonutui)
+- [better-auth-ui](https://github.com/better-auth-ui/better-auth-ui)
 
 #### 示例
 - [pear-landing-page](https://github.com/trypear/pear-landing-page)
