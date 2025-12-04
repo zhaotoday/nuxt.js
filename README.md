@@ -169,6 +169,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### React & Next
+- [semi-design](https://github.com/DouyinFE/semi-design)
 - [heroui](https://www.heroui.pro/)
 - [payload](https://github.com/payloadcms/payload)
 - [ui-layouts](https://www.ui-layouts.com/)
