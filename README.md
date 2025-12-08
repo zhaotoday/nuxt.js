@@ -128,6 +128,7 @@
 - [nuxt3-primevue-starter](https://github.com/sfxcode/nuxt3-primevue-starter)
 
 #### UI
+- [indielayer/ui](https://github.com/indielayer/ui)
 - [lcor-ui](https://github.com/alcorexchange/alcor-ui)
 - [maz-ui](https://maz-ui.com/)
 - [ark-ui](https://ark-ui.com/)
