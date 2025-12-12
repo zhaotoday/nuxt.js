@@ -180,6 +180,7 @@
 - [kokonutui](https://github.com/kokonut-labs/kokonutui)
 - [better-auth-ui](https://github.com/better-auth-ui/better-auth-ui)
 - [headlessui](https://headlessui.com/)
+- [elevenlabs/ui](https://github.com/elevenlabs/ui)
 
 #### 示例
 - [Nuxt_Mkdirs](https://github.com/PBHAHAHA/Nuxt_Mkdirs)
