@@ -107,6 +107,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [vike](https://github.com/vikejs/vike)
 - [vant-nuxt](https://github.com/vant-ui/vant-nuxt)
 - [vue3-carousel-nuxt](https://github.com/gaetansenn/vue3-carousel-nuxt)
 - [caomei-auth](https://github.com/CaoMeiYouRen/caomei-auth)
