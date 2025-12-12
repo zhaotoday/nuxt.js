@@ -182,6 +182,7 @@
 - [headlessui](https://headlessui.com/)
 
 #### 示例
+- [Nuxt_Mkdirs](https://github.com/PBHAHAHA/Nuxt_Mkdirs)
 - [pear-landing-page](https://github.com/trypear/pear-landing-page)
 - [material-tailwind](https://www.material-tailwind.com/blocks)
 - [creative-tim](https://www.creative-tim.com/ui/blocks)
