@@ -187,6 +187,7 @@
 #### 示例
 - [Nuxt_Mkdirs](https://github.com/PBHAHAHA/Nuxt_Mkdirs)
 - [pear-landing-page](https://github.com/trypear/pear-landing-page)
+- [TailwindCSS Plus](https://tailwindcss.com/plus)
 - [material-tailwind](https://www.material-tailwind.com/blocks)
 - [creative-tim](https://www.creative-tim.com/ui/blocks)
 - [NuxtPro](https://github.com/PennyJoly/NuxtPro)
