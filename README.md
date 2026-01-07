@@ -80,6 +80,8 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
+- [vue-bits](https://github.com/DavidHDev/vue-bits)
+- [react-bits](https://github.com/DavidHDev/react-bits)
 - [glightbox](https://github.com/biati-digital/glightbox)
 - [motion-vue](https://github.com/motiondivision/motion-vue)
 - [lottie-web](https://github.com/airbnb/lottie-web)
