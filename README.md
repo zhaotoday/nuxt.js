@@ -80,6 +80,7 @@
 - [sass-mq](https://github.com/sass-mq/sass-mq)
 
 #### 动画
+- [smart-ticker](https://github.com/tombcato/smart-ticker)
 - [vue-bits](https://github.com/DavidHDev/vue-bits)
 - [react-bits](https://github.com/DavidHDev/react-bits)
 - [glightbox](https://github.com/biati-digital/glightbox)
