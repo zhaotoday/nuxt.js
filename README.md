@@ -110,6 +110,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [nuxt-better-auth](https://github.com/onmax/nuxt-better-auth)
 - [nuxt-swiper](https://github.com/cpreston321/nuxt-swiper)
 - [vike](https://github.com/vikejs/vike)
 - [vant-nuxt](https://github.com/vant-ui/vant-nuxt)
