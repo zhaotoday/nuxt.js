@@ -194,6 +194,7 @@
 - [shoutem/ui](https://github.com/shoutem/ui)
 
 #### 示例
+- [wxt-nuxt-ui-starter](https://github.com/HugoRCD/wxt-nuxt-ui-starter)
 - [Nuxt_Mkdirs](https://github.com/PBHAHAHA/Nuxt_Mkdirs)
 - [pear-landing-page](https://github.com/trypear/pear-landing-page)
 - [TailwindCSS Plus](https://tailwindcss.com/plus)
