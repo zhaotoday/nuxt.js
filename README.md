@@ -7,6 +7,7 @@
 - [Tailwind CSS 中文文档](https://tailwind.nodejs.cn/)
 - [Nuxt3 添加 UnoCSS](https://www.yinchunyu.com/nuxt3/unocss.html)
 - [UnoCSS Attributify preset](https://unocss.dev/presets/attributify)
+- [snippets](https://www.nuppets.dev/snippets)
 
 #### 文章
 - [NUXT4.js制作企业官网](https://juejin.cn/post/7551326949974147098)
