@@ -181,6 +181,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### React & Next
+- [magicui](https://github.com/magicuidesign/magicui)
 - [spectrumhq](https://ui.spectrumhq.in/)
 - [aceternity](https://ui.aceternity.com/)
 - [semi-design](https://github.com/DouyinFE/semi-design)
