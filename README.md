@@ -73,6 +73,7 @@
 - [nuxt-i18n-micro](https://s00d.github.io/nuxt-i18n-micro/)
 
 #### CSS
+- [unocss-preset-shadcn](https://github.com/unocss-community/unocss-preset-shadcn)
 - [include-media](https://github.com/eduardoboucas/include-media)
 - [normalize-scss](https://github.com/JohnAlbin/normalize-scss)
 - [juice](https://kylebrumm.com/juice/)
