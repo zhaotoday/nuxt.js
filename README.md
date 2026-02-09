@@ -182,6 +182,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### React & Next
+- [intentui](https://intentui.com/)
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui)
 - [magicui](https://github.com/magicuidesign/magicui)
 - [spectrumhq](https://ui.spectrumhq.in/)
