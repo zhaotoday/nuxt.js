@@ -200,6 +200,7 @@
 - [shoutem/ui](https://github.com/shoutem/ui)
 
 #### 示例
+- [shadcn-studio](https://github.com/shadcnstudio/shadcn-studio)
 - [shadcn-docs-nuxt](https://github.com/ZTL-UwU/shadcn-docs-nuxt)
 - [nuxt-ui-chat](https://github.com/HugoRCD/nuxt-ui-chat)
 - [wxt-nuxt-ui-starter](https://github.com/HugoRCD/wxt-nuxt-ui-starter)
