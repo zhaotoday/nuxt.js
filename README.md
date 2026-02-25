@@ -239,6 +239,7 @@
 
 #### 漂亮网站
 - https://github.com/tailark/blocks
+- https://github.com/jnsahaj/tweakcn
 - https://www.shadcnui-blocks.com/templates
 - https://lunixpos.com/zh-CN/
 - https://readyy.app/
