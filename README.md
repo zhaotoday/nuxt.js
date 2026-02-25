@@ -237,6 +237,7 @@
 - [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 
 #### 漂亮网站
+- https://github.com/tailark/blocks
 - https://www.shadcnui-blocks.com/templates
 - https://lunixpos.com/zh-CN/
 - https://readyy.app/
