@@ -112,6 +112,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi)
 - [nuxt-visitors](https://github.com/HugoRCD/nuxt-visitors)
 - [nuxt-better-auth](https://github.com/onmax/nuxt-better-auth)
 - [nuxt-swiper](https://github.com/cpreston321/nuxt-swiper)
