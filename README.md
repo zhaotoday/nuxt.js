@@ -185,6 +185,7 @@
 - [Next UI](https://nextui.pro/components)
 
 #### React & Next
+- [heroui](https://heroui.com/)
 - [heroui](https://heroui.pro/)
 - [intentui](https://intentui.com/)
 - [assistant-ui](https://github.com/assistant-ui/assistant-ui)
