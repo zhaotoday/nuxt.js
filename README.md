@@ -205,6 +205,7 @@
 - [shoutem/ui](https://github.com/shoutem/ui)
 
 #### 示例
+- [hi-kid](https://xiaochong.github.io/hi-kid/)
 - [kun-galgame-nuxt4](https://github.com/KUN1007/kun-galgame-nuxt4)
 - [shadcn-ui-blocks](https://github.com/akash3444/shadcn-ui-blocks)
 - [shadcn-studio](https://github.com/shadcnstudio/shadcn-studio)
