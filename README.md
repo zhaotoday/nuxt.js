@@ -1,4 +1,5 @@
 #### 网站
+- [Nuxt 4 Performance Optimization: Complete Guide to Faster Apps in 2026](https://masteringnuxt.com/blog/nuxt-4-performance-optimization-complete-guide-to-faster-apps-in-2026)
 - [Nuxt3 中文文档](https://nuxt.zhcndoc.com/)
 - [Nuxt3 文档](https://nuxt.com/)
 - [Nuxt3 中文文档](https://nuxt.com.cn/)
