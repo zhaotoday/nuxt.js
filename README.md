@@ -301,6 +301,7 @@
 - https://react-saas.com/
 
 #### 模板
+- https://www.lapa.ninja/
 - https://www.tailawesome.com/
 - https://chakra-templates.vercel.app/
 - https://tailspark.co/
