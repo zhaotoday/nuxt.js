@@ -248,6 +248,7 @@
 - [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 
 #### 漂亮网站
+- https://web3templates.com/
 - https://astroship-pro.web3templates.com/
 - https://github.com/tailark/blocks
 - https://github.com/jnsahaj/tweakcn
