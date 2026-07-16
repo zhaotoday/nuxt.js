@@ -114,6 +114,7 @@
 - [velocity.js](http://velocityjs.org/)
 
 #### 库
+- [editor](https://github.com/nuxt-ui-templates/editor)
 - [nuxt-auth](https://github.com/sidebase/nuxt-auth)
 - [nuxt-modules/strapi](https://github.com/nuxt-modules/strapi)
 - [nuxt-visitors](https://github.com/HugoRCD/nuxt-visitors)
