@@ -249,6 +249,7 @@
 - [nuxt-vant-mobile](https://github.com/vue-zone/nuxt-vant-mobile)
 
 #### 漂亮网站
+- https://www.awwwards.com/
 - https://p.superdesign.dev/draft/bdea8930-43fd-4dfc-8042-3328ccfdc017
 - https://web3templates.com/
 - https://astroship-pro.web3templates.com/
